@@ -1,0 +1,1215 @@
+🧩 SECTION A – FOUNDATIONS (Questions 1–20)
+
+This section focuses on real-world history, physical baseline, practical skill set, and lifestyle habits—all of which affect core stats like Health, Stamina, Engineering, Medical, Survival, and Combat.
+
+Each question has GM notes to help guide stat/trait assignment.
+
+🧍 1. What is your current or most recent profession?
+
+Free response
+ GM Note: Assign +2 to the most relevant skill stat (e.g. EMT → Medical, Construction → Engineering)
+
+🛠️ 2. List three real-life skills you’re confident in.
+
+Free response
+ GM Note: Use to grant tool proficiencies, traits (e.g. "Tinkerer," "First Responder"), or passive bonuses.
+
+🧱 3. Do you know how to build or repair basic structures?
+
+☐ Yes, hands-on experience
+
+
+☐ Theoretically, yes
+
+
+☐ No, not really
+ GM Note: +1–2 Engineering or tag as “Builder” or “Handy.”
+
+
+🍳 4. Can you prepare food safely without modern appliances?
+
+☐ Easily
+
+
+☐ With some trial and error
+
+
+☐ Only with instruction
+
+
+☐ No
+ GM Note: Informs Survival stat and self-sufficiency rating.
+
+
+💪 5. How would you rate your physical endurance (not strength)?
+
+☐ High – I work long hours, hike, or train
+
+
+☐ Moderate – Active lifestyle
+
+
+☐ Low – Mostly sedentary
+ GM Note: Assign to Stamina and Health
+
+
+🧰 6. Can you safely use power tools or manual tools under stress?
+
+☐ Yes, often
+
+
+☐ Sometimes
+
+
+☐ Never
+ GM Note: Influences Engineering and Crisis Readiness (e.g. jury-rig repairs)
+
+
+🧭 7. Have you ever lived without electricity, plumbing, or refrigeration for over 3 days?
+
+☐ Yes
+
+
+☐ No
+ GM Note: +1 Survival or tag as “Rural-Adept”
+
+
+💉 8. Have you received any medical training (first aid, CPR, trauma care)?
+
+☐ Yes – professional level
+
+
+☐ Yes – basic certification or hands-on learning
+
+
+☐ No
+ GM Note: +1–2 Medical, or allow selection of “Field Medic” trait
+
+
+🎯 9. Are you comfortable handling firearms or melee weapons?
+
+☐ Yes, both
+
+
+☐ Only one
+
+
+☐ No, neither
+ GM Note: Affects Combat stat and access to weapon proficiencies
+
+
+🧠 10. Have you ever taught, trained, or led others in a skill or setting?
+
+☐ Yes – regularly
+
+
+☐ Occasionally
+
+
+☐ No
+ GM Note: +1 Diplomacy or Leadership affinity
+
+
+🧼 11. Are you skilled at organizing space or resources efficiently?
+
+☐ Yes
+
+
+☐ Kind of
+
+
+☐ No
+ GM Note: Tied to Logistics or Base Role Affinity (Quartermaster, Builder, Strategist)
+
+
+🚗 12. Can you drive and maintain a vehicle under pressure?
+
+☐ Yes, no problem
+
+
+☐ In theory, maybe
+
+
+☐ No
+ GM Note: Modifies Survival, tag as “Transport” or “Driver,” adds escape utility
+
+
+🪚 13. Have you ever built something from scrap or salvaged material?
+
+☐ Yes, often
+
+
+☐ A few times
+
+
+☐ No
+ GM Note: +1 Engineering or gain “Improviser” trait
+
+
+🌿 14. Are you familiar with basic wilderness survival (navigation, shelter, water)?
+
+☐ Yes, practiced
+
+
+☐ Light knowledge
+
+
+☐ Not really
+ GM Note: +1–2 Survival, tag “Woods-Trained” if high
+
+
+🔧 15. Can you fix or modify household or mechanical systems (plumbing, electronics, engines)?
+
+☐ Yes, with tools
+
+
+☐ Somewhat
+
+
+☐ Not at all
+ GM Note: +1 Engineering, possible bonus to Fortification actions
+
+
+🐾 16. Have you cared for animals, including medical or behavioral needs?
+
+☐ Yes
+
+
+☐ Limited experience
+
+
+☐ No
+ GM Note: May unlock “Companion Handler,” boost empathy or field med options
+
+
+🧽 17. What are three things you’re most resourceful with?
+
+Free response
+ GM Note: Use as wildcard for bonus proficiencies or “Scrounger” perk
+
+🔋 18. What physical or mental conditions would affect you in prolonged crisis?
+
+Free response
+ GM Note: Apply respectfully. Can reduce stamina/sanity but unlock resilience traits like “Fighter,” “Endures Pain,” “Sharp When It Counts”
+
+🧑‍🔬 19. Are you more of a hands-on learner or theoretical problem solver?
+
+☐ Hands-on
+
+
+☐ Theoretical
+
+
+☐ Both
+ GM Note: Affects trait direction—e.g. Tactician vs Field Mechanic
+
+
+📚 20. Have you learned any of your key skills from hardship or mentorship?
+
+☐ Hardship
+
+
+☐ Mentorship
+
+
+☐ Both
+
+
+☐ Neither
+ GM Note: Hardship boosts grit-related traits. Mentorship increases morale-influence and “Teacher” potential.
+
+
+🧩 SECTION B – PERSONALITY & SOCIAL BEHAVIOR (Questions 21–40)
+
+These 20 questions help define how players interact with others, lead, follow, resolve conflict, and influence group morale. They shape stats like Diplomacy, Sanity, and Leadership Affinity, while unlocking traits tied to empathy, stubbornness, authority, detachment, and trust.
+
+🫂 21. In a high-stress group setting, what role do you naturally take on?
+
+☐ Listener/support
+
+
+☐ Planner/coordinator
+
+
+☐ Decision-maker
+
+
+☐ Lone operator
+
+
+🧠 22. Do you enjoy managing people or projects under pressure?
+
+☐ Yes, I thrive on it
+
+
+☐ I can do it, but it’s draining
+
+
+☐ Only if nobody else steps up
+
+
+☐ Not really
+
+
+🎭 23. Are you more motivated by loyalty, logic, fairness, or survival?
+
+☐ Loyalty
+
+
+☐ Logic
+
+
+☐ Fairness
+
+
+☐ Survival
+
+
+🧍‍♂️ 24. Do you tend to speak up first in a group or wait and assess?
+
+☐ Speak first
+
+
+☐ Depends on the situation
+
+
+☐ Usually wait and listen
+
+
+🧏 25. If someone challenges your judgment, how do you react?
+
+☐ Defend yourself confidently
+
+
+☐ Try to de-escalate
+
+
+☐ Withdraw or shut down
+
+
+☐ Get confrontational
+
+
+💬 26. Are you more comfortable talking one-on-one or to a group?
+
+☐ One-on-one
+
+
+☐ Small groups
+
+
+☐ Large groups
+
+
+☐ Not comfortable speaking at all
+
+
+🧩 27. How well do you read other people’s emotions or needs?
+
+☐ Very well
+
+
+☐ I try, but I miss things
+
+
+☐ I struggle with this
+
+
+☐ I don’t concern myself with it
+
+
+🧱 28. How stubborn are you when you think you're right?
+
+☐ Extremely
+
+
+☐ Fairly
+
+
+☐ I can compromise
+
+
+☐ I often doubt myself
+
+
+🗣️ 29. You’re forced to mediate a dispute. What do you prioritize?
+
+☐ Who’s right and wrong
+
+
+☐ Finding a fair solution
+
+
+☐ Calming things down
+
+
+☐ Avoiding it entirely
+
+
+🤝 30. How much do you value trust between group members?
+
+☐ It’s everything
+
+
+☐ It’s important but not essential
+
+
+☐ It’s fragile—use it carefully
+
+
+☐ Trust is a liability
+
+
+📣 31. Someone questions your loyalty. How do you respond?
+
+☐ Prove them wrong
+
+
+☐ Cut them off
+
+
+☐ Laugh it off
+
+
+☐ Confront them
+
+
+🧍‍♀️ 32. Are you more protective of others or of yourself?
+
+☐ Others
+
+
+☐ Myself
+
+
+☐ Depends on the person
+
+
+☐ I try not to care either way
+
+
+🧱 33. What quality do you most respect in a leader?
+
+☐ Strength
+
+
+☐ Wisdom
+
+
+☐ Compassion
+
+
+☐ Discipline
+
+
+🌪️ 34. You’re emotionally overwhelmed. What do you usually do?
+
+☐ Shut down completely
+
+
+☐ Lash out or panic
+
+
+☐ Retreat and reset
+
+
+☐ Push through it
+
+
+🎭 35. When others are suffering, do you:
+
+☐ Step in to help
+
+
+☐ Watch and wait
+
+
+☐ Try to fix the problem practically
+
+
+☐ Avoid getting involved
+
+
+🫀 36. What’s more dangerous in a crisis: indecision or overconfidence?
+
+☐ Indecision
+
+
+☐ Overconfidence
+
+
+☐ Both equally
+
+
+☐ Depends who’s making the call
+
+
+🤫 37. How often do you lie (even small lies) to avoid tension?
+
+☐ Often
+
+
+☐ Occasionally
+
+
+☐ Rarely
+
+
+☐ Never
+
+
+🧑‍🤝‍🧑 38. Do you believe everyone is capable of change, or some people are beyond saving?
+
+☐ Everyone can change
+
+
+☐ Most can
+
+
+☐ Some are too far gone
+
+
+☐ People don’t change
+
+
+🧃 39. If a teammate is emotionally spiraling, do you:
+
+☐ Step in and talk them down
+
+
+☐ Try to distract them with a task
+
+
+☐ Give them space
+
+
+☐ Avoid it completely
+
+
+🧩 40. Do you feel personally responsible for the emotional well-being of others?
+
+☐ Yes, deeply
+
+
+☐ Only those I care about
+
+
+☐ Sometimes
+
+
+☐ No
+
+
+🧩 SECTION C – STRESS, FEAR, & MORALITY (Questions 41–60)
+
+This section explores how players react under psychological strain, how far they’re willing to go, and what lines they won’t—or might—cross. It heavily influences Sanity, Moral Tags, Flaws, and Crisis Traits.
+
+🧠 41. When overwhelmed by fear or anxiety, what do you tend to do first?
+
+☐ Freeze
+
+
+☐ Talk or ramble
+
+
+☐ Act without thinking
+
+
+☐ Breathe and slow down
+
+
+🧨 42. What type of situation stresses you out the most?
+
+☐ Public conflict
+
+
+☐ Isolation
+
+
+☐ Letting others down
+
+
+☐ Feeling powerless
+
+
+🩸 43. What’s the worst thing you can imagine being forced to do to survive?
+
+Free response
+ GM Note: Use to assign Moral Line Threshold or trigger tag ("Won’t Cross," "Could Snap," etc.)
+
+🕳️ 44. What’s a personal regret that still affects you?
+
+Free response
+ GM Note: Optional hidden flaw or background hook.
+
+⚖️ 45. Which of these values do you sacrifice last in a life-or-death scenario?
+
+☐ Your ethics
+
+
+☐ Your group
+
+
+☐ Your sanity
+
+
+☐ Your survival
+
+
+⚔️ 46. Could you kill someone in cold blood if it meant saving others?
+
+☐ No
+
+
+☐ Yes, if I knew them
+
+
+☐ Yes, if I didn’t
+
+
+☐ Absolutely
+
+
+🧱 47. What breaks people faster—pain or loneliness?
+
+☐ Pain
+
+
+☐ Loneliness
+
+
+☐ Depends on the person
+
+
+☐ I don’t know—I avoid both
+
+
+🗣️ 48. Do you think truth matters more than peace?
+
+☐ Always
+
+
+☐ Usually
+
+
+☐ Sometimes peace is better
+
+
+☐ No, truth is dangerous
+
+
+🩻 49. You’re wounded and may die. Do you tell your team?
+
+☐ Yes, immediately
+
+
+☐ Only if it affects them
+
+
+☐ No, I don’t want pity
+
+
+☐ No, I want to die useful
+
+
+💀 50. How do you feel about the idea of a “necessary evil”?
+
+☐ It’s real, and I accept it
+
+
+☐ It exists, but I resist it
+
+
+☐ It’s a lie used to excuse cruelty
+
+
+☐ I don’t know anymore
+
+
+🕊️ 51. If someone in your group broke emotionally—screaming, sobbing, losing it—how do you react?
+
+☐ Hold them or talk them down
+
+
+☐ Get frustrated but try
+
+
+☐ Back away or shut them out
+
+
+☐ Snap at them to get it together
+
+
+🧩 52. Which is harder for you to forgive?
+
+☐ Betrayal
+
+
+☐ Cowardice
+
+
+☐ Recklessness
+
+
+☐ Weakness
+
+
+🕰️ 53. What would break your character permanently?
+
+Free response
+ GM Note: Use as Sanity trigger or arc-based breaking point.
+
+🎭 54. Would you rather be remembered as loved or respected?
+
+☐ Loved
+
+
+☐ Respected
+
+
+☐ Both
+
+
+☐ I don’t care
+
+
+🫥 55. Do you believe fear is a weakness?
+
+☐ Yes
+
+
+☐ No
+
+
+☐ It depends how you use it
+
+
+🫀 56. Would you sacrifice your reputation to do the right thing?
+
+☐ Absolutely
+
+
+☐ Maybe
+
+
+☐ Only if no one ever knew
+
+
+☐ No
+
+
+☢️ 57. Could you leave a friend behind to save a group of strangers?
+
+☐ Never
+
+
+☐ Only if they asked me to
+
+
+☐ Yes, I could
+
+
+☐ I already have
+
+
+🧱 58. How do you handle guilt?
+
+☐ I dwell on it
+
+
+☐ I try to learn from it
+
+
+☐ I compartmentalize
+
+
+☐ I shut it out
+
+
+⚰️ 59. Is death a failure or part of the job?
+
+☐ A failure
+
+
+☐ Part of the cost
+
+
+☐ Depends on how you die
+
+
+☐ Neither—it’s irrelevant
+
+
+💬 60. What’s your personal code, rule, or mantra when things fall apart?
+
+Free response
+ GM Note: Use to finalize crisis traits and arc anchor point
+
+🧩 SECTION D – CRISIS REACTIONS (Questions 61–80)
+
+This section dives into how a character actually behaves in high-pressure, life-threatening, or ethically ambiguous moments. These responses help the GM define:
+
+Crisis Traits (e.g., Bold, Cautious, Cold-Blooded, Loyal to a Fault)
+
+
+Leadership viability, risk behavior, and panic response
+
+
+Stat tweaks to Combat, Survival, and Stamina
+
+
+Personal reputation tags and mission role affinity
+
+🔥 61. You hear gunshots near the compound. What do you do?
+
+☐ Grab a weapon and investigate immediately
+
+
+☐ Call for backup, then check it out
+
+
+☐ Stay put and defend your location
+
+
+☐ Wait for someone else to make the call
+
+
+🧨 62. A child is screaming in a collapsing building. You’re the only one nearby.
+
+☐ Rush in, no hesitation
+
+
+☐ Look for a safe way in first
+
+
+☐ Call for help before moving
+
+
+☐ Keep moving—they’re probably gone
+
+
+⚔️ 63. You’re face-to-face with a hostile holding a weapon. What’s your instinct?
+
+☐ Disarm or shoot
+
+
+☐ Try to talk them down
+
+
+☐ Wait for them to make a move
+
+
+☐ Back off slowly
+
+
+🧟 64. Your weapon jams and an infected is charging you. What do you do?
+
+☐ Fight hand-to-hand
+
+
+☐ Dodge and run
+
+
+☐ Call for help
+
+
+☐ Freeze up
+
+
+⛺ 65. You and your team are exhausted but have no shelter yet.
+
+☐ Push forward until shelter is found
+
+
+☐ Stop and make camp somewhere hidden
+
+
+☐ Assign watches and rest where you are
+
+
+☐ Keep moving and hope for the best
+
+
+🧍‍♂️ 66. A teammate disobeys orders and gets someone hurt. You:
+
+☐ Yell or discipline them publicly
+
+
+☐ Pull them aside and talk
+
+
+☐ Stay silent for now
+
+
+☐ Report them to leadership
+
+
+🧊 67. A loved one is bitten and hiding it. You find out.
+
+☐ Confront them immediately
+
+
+☐ Tell the group
+
+
+☐ Let them decide when to speak
+
+
+☐ Say nothing—they’ll turn when they turn
+
+
+🔦 68. You’re asked to scout a dark, unfamiliar structure alone.
+
+☐ Accept immediately
+
+
+☐ Ask why it has to be you
+
+
+☐ Only go with backup
+
+
+☐ Refuse
+
+
+🧪 69. A stranger offers you medical supplies, but won’t say where they’re from.
+
+☐ Accept and thank them
+
+
+☐ Refuse until they explain
+
+
+☐ Take it and test it secretly
+
+
+☐ Detain/question them
+
+
+🎯 70. You’re told to execute a captured raider who killed a friend.
+
+☐ Do it, no hesitation
+
+
+☐ Refuse on principle
+
+
+☐ Ask the group to vote
+
+
+☐ Volunteer, even if others hesitate
+
+
+🧗 71. You’re climbing a structure and someone starts to fall. If you reach for them, you might fall too.
+
+☐ Try to grab them anyway
+
+
+☐ Secure yourself first, then help
+
+
+☐ Yell for help but don’t act
+
+
+☐ Let them fall
+
+
+🎒 72. You’re down to your last medkit. Who gets it?
+
+☐ The worst-injured
+
+
+☐ The most useful group member
+
+
+☐ The one who earned it
+
+
+☐ Yourself
+
+
+🧍‍♀️ 73. Someone cracks under pressure and jeopardizes the mission.
+
+☐ Cut them from future operations
+
+
+☐ Reassign them to safer roles
+
+
+☐ Give them a second chance
+
+
+☐ Avoid working with them again
+
+
+📡 74. You receive a distress call from someone you know… 12 miles away.
+
+☐ Go, no question
+
+
+☐ Try to confirm it’s legit first
+
+
+☐ Ask the group before deciding
+
+
+☐ Stay focused on your own team
+
+
+💣 75. You’re given five minutes to evacuate before a bomb hits. You’re carrying too much.
+
+☐ Drop gear, save lives
+
+
+☐ Take the best stuff and go
+
+
+☐ Try to carry both and risk it
+
+
+☐ Freeze, unsure what to do
+
+
+🧍 76. If someone in your team hesitates to act in a firefight:
+
+☐ Take over instantly
+
+
+☐ Yell commands to get them moving
+
+
+☐ Cover them until they recover
+
+
+☐ Leave them behind
+
+
+🔥 77. You must destroy a location to stop an outbreak—but it's full of supplies.
+
+☐ Destroy it. The risk is too high.
+
+
+☐ Salvage what you can, then burn it
+
+
+☐ Vote with the group
+
+
+☐ Refuse. Supplies matter too much
+
+
+⚠️ 78. You hear something horrible through a door. You’re alone.
+
+☐ Open it and investigate
+
+
+☐ Block it off and mark it
+
+
+☐ Wait and watch from a distance
+
+
+☐ Leave—someone else can handle it
+
+
+🔐 79. If you’re being hunted and a civilian begs to come with you:
+
+☐ Let them come
+
+
+☐ Say no, it’s too dangerous
+
+
+☐ Give them supplies but not protection
+
+
+☐ Use them as bait (dark option)
+
+
+🧱 80. What matters most in a crisis?
+
+☐ Speed
+
+
+☐ Planning
+
+
+☐ Trust
+
+
+☐ Instinct
+
+
+🧠 SECTION E – PSYCHOLOGICAL TEXTURE & ROLEPLAY HOOKS (Questions 81–100)
+
+This final section focuses on emotional tone, personal philosophy, worldview, and buried character threads. It gives the GM everything they need to shape story arcs, reveal hidden motivations, and challenge characters with the right moral and narrative beats.
+
+🌙 81. What dream still lingers from your old life?
+
+Free response
+
+🪞 82. What lie do you often tell yourself to get through the day?
+
+Free response
+
+💔 83. What’s a memory you avoid at all costs?
+
+Free response
+
+🧍 84. What kind of people do you trust least?
+
+☐ Authority figures
+
+
+☐ Idealists
+
+
+☐ Cowards
+
+
+☐ Survivors who smile too much
+
+
+🎭 85. What personal mask do you wear when you're afraid?
+
+☐ Humor
+
+
+☐ Anger
+
+
+☐ Silence
+
+
+☐ Leadership
+
+
+🧬 86. What kind of person would you be if no one else was watching?
+
+Free response
+
+📖 87. What story do you tell others about how you survived the outbreak?
+
+Free response
+
+☠️ 88. If you died tomorrow, what would you want others to say about you?
+
+Free response
+
+🔦 89. What’s your instinct in the dark: explore or bunker down?
+
+☐ Explore
+
+
+☐ Wait until daylight
+
+
+☐ Only with backup
+
+
+☐ Avoid it always
+
+
+🔒 90. Do you believe your secrets would help or harm your group if revealed?
+
+☐ Help
+
+
+☐ Harm
+
+
+☐ Both
+
+
+☐ I have no secrets (or so I tell myself)
+
+
+💀 91. What’s your relationship with death?
+
+☐ I fear it
+
+
+☐ I fight it
+
+
+☐ I accept it
+
+
+☐ I sometimes welcome it
+
+
+🧩 92. Do you believe in anything bigger than yourself anymore?
+
+☐ Yes
+
+
+☐ Not anymore
+
+
+☐ I want to
+
+
+☐ I never did
+
+
+💬 93. Do you think guilt is useful, or just pain?
+
+☐ Useful
+
+
+☐ Pain
+
+
+☐ Both
+
+
+☐ It depends what you do with it
+
+
+🫥 94. What part of yourself do you hide from the group?
+
+Free response
+
+🧍‍♂️ 95. What’s one thing no one else in your group understands about you?
+
+Free response
+
+🫶 96. Who (or what) would you die for without hesitation?
+
+Free response
+
+💢 97. What pushes you to your breaking point?
+
+☐ Being ignored
+
+
+☐ Being abandoned
+
+
+☐ Feeling helpless
+
+
+☐ Betrayal
+
+
+🌪️ 98. What fear keeps you from sleeping when things are quiet?
+
+Free response
+
+🪙 99. Would you rather be feared, loved, or forgotten?
+
+☐ Feared
+
+
+☐ Loved
+
+
+☐ Forgotten
+
+
+☐ None of the above
+
+
+🕯️ 100. What do you still hope for—even now?
+
+Free response

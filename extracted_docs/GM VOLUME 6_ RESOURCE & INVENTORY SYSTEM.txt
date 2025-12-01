@@ -1,0 +1,307 @@
+VOLUME 6: RESOURCE & INVENTORY SYSTEM
+
+Category-Based Survival Management for Narrative-Driven Play
+
+🔹 CORE PRINCIPLES
+
+Abstracted Inventory: No individual item tracking
+
+
+Narrative Pressure: Resources drain only through story-driven events
+
+
+Survival-Critical Focus: Track only what matters to life, death, and morale
+
+
+📅 RESOURCE CATEGORIES
+
+📊 RESOURCE SCALE
+
+Each resource is tracked on a scale of 0 to 10:
+
+0 = Critical Shortage (penalties triggered)
+
+
+10 = Fully Stocked
+
+
+Resources may exceed 10 if overflow systems (e.g., caches) exist.
+
+🔄 RESOURCE USAGE
+
+✅ MISSION COSTS
+
+Before a mission, subtract from relevant resource categories:
+
+Only subtract from the resources actually used by the mission type.
+
+➕ RESOURCE GAINS
+
+Narrative scavenging finds contribute to general pools:
+
+Example: Finding trauma kits, bandages, and antiseptic = +3 Medical
+
+🕗 CONDITION-TRIGGERED RESOURCE DRAIN
+
+Resources are not drained daily. Instead, they decay when the group neglects key needs for too long.
+
+🧱 SUSTAINABILITY OFFSETS
+
+If players have built systems that address a need, that drain is reduced or blocked.
+
+GM Tip: Systems must be functional, not compromised, and not overused to apply offsets.
+
+❌ RESOURCE AT 0: CONSEQUENCES
+
+✨ OPTIONAL GM TOOLS
+
+Mission Cards: Prebuilt missions with projected cost/reward
+
+
+Resource Tracker: Printable bar cards or dry-erase sliders
+
+
+Crisis Flags: Tokens that mark when 0-resource state is reached
+
+
+Sabotage/Decay Events: Narrative prompts to simulate system breakdown
+
+
+This system keeps your survival world intense, fast-moving, and grounded—without ever needing a daily ledger.
+
+Category-Based Survival Management for Narrative-Driven Play
+
+🔹 CORE PRINCIPLES
+
+Abstracted Inventory: No individual item tracking
+
+
+Narrative Pressure: Resources drain only through story-driven events
+
+
+Survival-Critical Focus: Track only what matters to life, death, and morale
+
+
+📅 RESOURCE CATEGORIES
+
+📊 RESOURCE SCALE
+
+Each resource is tracked on a scale of 0 to 10:
+
+0 = Critical Shortage (penalties triggered)
+
+
+10 = Fully Stocked
+
+
+Resources may exceed 10 if overflow systems (e.g., caches) exist.
+
+🔄 RESOURCE USAGE
+
+✅ MISSION COSTS
+
+Before a mission, subtract from relevant resource categories:
+
+Only subtract from the resources actually used by the mission type.
+
+➕ RESOURCE GAINS
+
+Narrative scavenging finds contribute to general pools:
+
+Example: Finding trauma kits, bandages, and antiseptic = +3 Medical
+
+🕗 CONDITION-TRIGGERED RESOURCE DRAIN
+
+Resources are not drained daily. Instead, they decay when the group neglects key needs for too long.
+
+🧱 SUSTAINABILITY OFFSETS
+
+If players have built systems that address a need, that drain is reduced or blocked.
+
+GM Tip: Systems must be functional, not compromised, and not overused to apply offsets.
+
+❌ RESOURCE AT 0: CONSEQUENCES
+
+✨ OPTIONAL GM TOOLS
+
+Mission Cards: Prebuilt missions with projected cost/reward
+
+
+Resource Tracker: Printable bar cards or dry-erase sliders
+
+
+Crisis Flags: Tokens that mark when 0-resource state is reached
+
+
+Sabotage/Decay Events: Narrative prompts to simulate system breakdown
+
+
+This system keeps your survival world intense, fast-moving, and grounded—without ever needing a daily ledger.
+
+Category | Covers...
+
+Medical | First aid, trauma care, infection control
+
+Ammo | Ammunition, weapon maintenance
+
+Fuel | Gas, diesel, propane, generator power
+
+Food/Water | Hydration, nutrition, ration storage
+
+Utility | Tools, batteries, radios, rope, flashlights
+
+Sanity/Comfort | Morale boosts, sentimentals, mental resilience
+
+Construction | Building materials, fortifications, structural repair
+
+Mission Scale | Typical Cost Per Resource
+
+Solo (1 person) | −1
+
+Small Team (2–3) | −1 to −2
+
+Full Team (4–6) | −2 to −3
+
+Major Operation | −3 to −4+
+
+Haul Size | Gain
+
+Minimal | +1
+
+Standard | +2
+
+Major | +3
+
+Exceptional Cache | +4 to +5
+
+Neglected Action | Resource Lost
+
+No food/water run in 2+ missions | −2 Food/Water
+
+No medical downtime or resupply | −2 Medical
+
+No morale or comfort focus | −1 Sanity/Comfort
+
+No shelter fortification | −2 Construction
+
+No tool/equipment scavenging | −1 Utility
+
+No fuel recovery or rationing | −2 Fuel
+
+No ammo salvage or crafting | −1 to −2 Ammo
+
+Built System or Asset | Negates or Reduces...
+
+Active farm/water collection | Blocks Food/Water drain
+
+Infirmary or medic rotation | −1 max Medical drain
+
+Community hall/mental care | Blocks Sanity/Comfort decay
+
+Trap lines/walls/base defenses | −1 Construction decay
+
+Tool cache/workbench | Blocks Utility drain
+
+Fuel stills or solar panels | −1 Fuel drain
+
+Reloading press or ammo salvage | −1 Ammo drain
+
+Resource | Effect When Depleted
+
+Medical | Infections, failed healing, wounds worsen
+
+Ammo | Forced into melee or stealth-only missions
+
+Fuel | No movement, generators shut down
+
+Food/Water | Stamina/Sanity checks to avoid collapse
+
+Utility | Failed traps, tech failures, blackouts
+
+Sanity/Comfort | Morale crashes, temporary flaws may form
+
+Construction | Shelter vulnerable, barricades fail
+
+Category | Covers...
+
+Medical | First aid, trauma care, infection control
+
+Ammo | Ammunition, weapon maintenance
+
+Fuel | Gas, diesel, propane, generator power
+
+Food/Water | Hydration, nutrition, ration storage
+
+Utility | Tools, batteries, radios, rope, flashlights
+
+Sanity/Comfort | Morale boosts, sentimentals, mental resilience
+
+Construction | Building materials, fortifications, structural repair
+
+Mission Scale | Typical Cost Per Resource
+
+Solo (1 person) | −1
+
+Small Team (2–3) | −1 to −2
+
+Full Team (4–6) | −2 to −3
+
+Major Operation | −3 to −4+
+
+Haul Size | Gain
+
+Minimal | +1
+
+Standard | +2
+
+Major | +3
+
+Exceptional Cache | +4 to +5
+
+Neglected Action | Resource Lost
+
+No food/water run in 2+ missions | −2 Food/Water
+
+No medical downtime or resupply | −2 Medical
+
+No morale or comfort focus | −1 Sanity/Comfort
+
+No shelter fortification | −2 Construction
+
+No tool/equipment scavenging | −1 Utility
+
+No fuel recovery or rationing | −2 Fuel
+
+No ammo salvage or crafting | −1 to −2 Ammo
+
+Built System or Asset | Negates or Reduces...
+
+Active farm/water collection | Blocks Food/Water drain
+
+Infirmary or medic rotation | −1 max Medical drain
+
+Community hall/mental care | Blocks Sanity/Comfort decay
+
+Trap lines/walls/base defenses | −1 Construction decay
+
+Tool cache/workbench | Blocks Utility drain
+
+Fuel stills or solar panels | −1 Fuel drain
+
+Reloading press or ammo salvage | −1 Ammo drain
+
+Resource | Effect When Depleted
+
+Medical | Infections, failed healing, wounds worsen
+
+Ammo | Forced into melee or stealth-only missions
+
+Fuel | No movement, generators shut down
+
+Food/Water | Stamina/Sanity checks to avoid collapse
+
+Utility | Failed traps, tech failures, blackouts
+
+Sanity/Comfort | Morale crashes, temporary flaws may form
+
+Construction | Shelter vulnerable, barricades fail

@@ -1,0 +1,51 @@
+📈 Narrative Progression System
+
+Overview
+
+This progression system is designed to reward emotional depth, meaningful decisions, and long-term character development. It replaces traditional XP grinding with a reflective, narrative-based model that reinforces player growth and story impact.
+
+🎯 Growth Marks
+
+At the end of each session, the GM leads a short reflection. Players answer a set of questions based on their actions, decisions, and development. If a player can honestly answer 'yes' they earn 1 Growth Mark.
+
+Once a player collects 3 Growth Marks, they unlock a Character Advance.
+
+✅ Session Reflection Questions
+
+Ask the following questions aloud at the end of each session:
+
+1. Did you act in accordance with your traits, flaws, or moral code—even when it cost you something?
+
+2. Did you influence another character in a meaningful way—through trust, conflict, loyalty, or sacrifice?
+
+3. Did you face a fear, hardship, or moral choice that tested your values—and grow from it, even slightly?
+
+4. (Optional Bonus) Did you take a personal risk for someone else’s survival, well-being, or hope?
+
+✅ If the player answers 'yes' they earn 1 Growth Mark.
+
+🪜 Character Advances (Every 3 Growth Marks)
+
+Once a player has earned 3 Growth Marks, they choose one of the following advance options:
+
+🔹 Stat Improvement – Raise one stat by +1, up to a max of 5. Must be justified through recent in-game experience.
+
+🔹 Trait Evolution – Upgrade one existing trait into a stronger or more refined version based on its narrative arc.
+
+🔹 Flaw Breakthrough or Transformation – Resolve a flaw or replace it with a more evolved version (e.g. Savior Syndrome → Resentful Savior). Must be supported by in-character growth or emotional conflict.
+
+🔹 New Trait Unlock – Gain a new Conditional or Latent Trait offered by the GM, based on your choices and arc.
+
+🔹 Arc Milestone – Instead of a mechanical bonus, resolve a major backstory thread, mystery, or personal mission. This may unlock future bonuses or reputation impact.
+
+🧠 Optional GM Tools
+
+To enhance and guide the progression system, GMs may also consider:
+
+Keeping a Growth Log for each player (3-slot tracker; reset on Advance).
+
+Allowing players to nominate one other player each session for a bonus Growth Mark based on emotional impact or breakthrough moments.
+
+Granting bonus Growth Marks for 'Red Line Moments'—scenes where a character hits a personal or moral breaking point and leans into it.
+
+Tying specific trait evolutions to story events, milestones, or faction recognition.

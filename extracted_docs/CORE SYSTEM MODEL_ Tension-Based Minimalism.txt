@@ -1,0 +1,192 @@
+🔹 1. STAT TRIGGER ROLLS 
+
+Stats = Narrative triggers, not hard math
+
+
+When you do something risky that fits a core stat, you roll a d6 or narrative coin flip
+
+
+Example:
+
+Roll outcomes:
+
+6 = Full success
+
+
+4–5 = Success with cost
+
+
+1–3 = Failure or moral strain
+
+ (Modifiers optional based on traits)
+
+
+🎲 STAT TRIGGER EXAMPLES
+
+🪓 SURVIVAL
+
+When you act on instinct in dangerous terrain or unknown conditions.
+
+Examples:
+
+You’re crawling through a half-collapsed tunnel and hear something breathing.
+
+
+You’re foraging at night and hear glass crack nearby.
+
+
+You try to bypass a frozen river without testing the ice.
+
+
+You’re low on food and gamble on eating something you think is edible.
+
+ → Roll Survival. (Success = You adapt. Failure = Injury, exposure, misstep.)
+
+
+🧠 SANITY
+
+When you face horror, grief, or the unnatural.
+
+Examples:
+
+You discover a loved one turned, still clutching something meaningful.
+
+
+You’re the only one awake during a long watch, and something starts whispering your name.
+
+
+A decision you made costs someone their life, and the others are silent.
+
+
+You see something moving in a mirror—but not in the room.
+
+ → Roll Sanity. (Success = You anchor. Failure = Spiral, freeze, lash out.)
+
+
+🏃‍♂️ STAMINA
+
+When you push your body past safe limits.
+
+Examples:
+
+You’re sprinting full-out with someone on your back while being chased.
+
+
+You’ve been awake for 36 hours and are told to take another shift.
+
+
+You volunteer to carry the heavy water drum uphill.
+
+
+You refuse medical rest to keep someone else alive.
+
+ → Roll Stamina. (Success = You endure. Failure = Collapse, injury, hallucination.)
+
+
+🫂 EMPATHY
+
+When you try to connect, calm, or rescue another emotionally.
+
+Examples:
+
+A kid is panicking and might bolt into danger.
+
+
+A crewmate is curled up and won’t speak after a mission goes wrong.
+
+
+A stranger holds a knife to their own throat, sobbing.
+
+
+Your friend just crossed their Red Line and can’t look at you.
+
+ → Roll Empathy. (Success = You reach them. Failure = They break… or you do.)
+
+
+🪨 RESOLVE
+
+When you hold your line in moral or personal conflict.
+
+Examples:
+
+Everyone agrees to abandon someone—you don’t.
+
+
+You’re asked to lie to protect morale but it eats at you.
+
+
+You could steal medicine from another group.
+
+
+You’re told to break your Red Line or be exiled.
+
+ → Roll Resolve. (Success = You stay whole. Failure = Fracture, shame, compromise.)
+
+🔹 2. TRAITS + FLAWS ARE TRIGGERS
+
+Instead of bonuses, traits create complication hooks:
+
+“If your trait applies, you get an edge… but it may backfire.”
+
+
+“If your flaw triggers, GM can ask you to roll even if you weren’t planning to.”
+
+
+E.g.:
+
+Trait: “First In, Last Out”
+
+➤ GM: “The rest of your group is hesitating. You’re not. Roll Survival with pressure.”
+
+🔹 3. NO INITIATIVE, JUST ESCALATION
+
+Use “Pressure Tokens” or “Scene Tension Meters” instead of turns
+
+
+GM/World reacts to:
+
+
+Hesitation
+
+
+Noise
+
+
+Violence
+
+
+Moral fracture
+
+
+Think a quiet firefight becoming a noise trap becoming a base breach.
+
+🔹 4. CONSEQUENCES ARE NARRATIVE, NOT NUMERIC
+
+You don’t lose “HP”—you lose:
+
+
+Trust
+
+
+Morale
+
+
+Time
+
+
+A Red Line
+
+
+The real cost of failure is what it forces you to become.
+
+Stat | Roll Trigger
+
+Survival | When you act on instinct in a dangerous place
+
+Sanity | When you face something mentally shattering
+
+Stamina | When you push your body past safe limits
+
+Empathy | When you try to connect or de-escalate
+
+Resolve | When you stand firm in moral conflict

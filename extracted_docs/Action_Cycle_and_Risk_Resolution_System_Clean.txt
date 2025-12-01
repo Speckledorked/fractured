@@ -1,0 +1,101 @@
+🎲 Action Cycle & Risk Resolution System
+
+⚙️ ACTION CYCLE (Narrative-Driven, Freeform)
+
+Play flows through narrative beats, not turns. These are called Crisis Frames—scenes where danger, time pressure, or moral weight shift the action.
+
+Each player acts when it makes sense narratively.
+
+- If their action could fail, trigger risk, or cost something, the GM calls for a roll.
+- No initiative. No turn order.
+- GM escalates tension through fiction or a Threat Clock if players hesitate or fail.
+
+🎲 RISK ROLL SYSTEM
+
+Whenever a player attempts something risky, roll:
+
+2d6 + Relevant Stat
+
+Choose the stat that matches what the player is trying to do (freeform):
+
+Combat – attacking, defending, intimidation
+
+Survival – navigation, evasion, foraging, adaptation
+
+Diplomacy – persuasion, empathy, negotiation
+
+Engineering – building, repairing, modifying
+
+Medical – triage, healing, stabilizing
+
+Stamina – pushing limits, enduring pain/fatigue
+
+Sanity – resisting fear, keeping composure
+
+Health – shrugging injury, physical resistance
+
+🎯 ROLL OUTCOMES (Narrative Resolution Scale)
+
+
+On a 7–9, the GM chooses or offers consequences:
+
+You draw attention
+
+You succeed but something breaks, is delayed, or exposed
+
+You leave yourself or someone else vulnerable
+
+You succeed… but pay for it later
+
+
+On a 6–, the GM responds with:
+
+Immediate danger escalation
+
+Threat Clock advancement
+
+Resource loss
+
+Trait/Flaw trigger
+
+Moral complication
+
+Consequence that snowballs
+
+🧮 MODIFIERS
+
+⏳ OPTIONAL: THREAT CLOCK
+
+Use a 4- or 6-segment Threat Clock to track how close the scene is to collapse.
+
+Advance the clock when:
+
+
+Players fail a roll
+
+Players hesitate or stall
+
+Players take noisy/desperate action
+
+
+At full clock, unleash a GM escalation (walker breach, structure collapse, betrayal, panic, etc.)
+
+Total | Result | Interpretation
+
+10+ | Success | You achieve your goal cleanly, with no complication.
+
+7–9 | Mixed Success | You succeed, but at a cost. The GM offers 1–2 hard options.
+
+6 or less | Failure | The action fails—or succeeds in the worst possible way. The GM makes a hard move.
+
+Situation | Modifier
+
+Relevant Trait or Training | +1
+
+Significant teammate aid | +1
+
+Active Condition or Flaw | –1
+
+No tools/resources | –1
+
+Severe environmental stress | –1 to –2
