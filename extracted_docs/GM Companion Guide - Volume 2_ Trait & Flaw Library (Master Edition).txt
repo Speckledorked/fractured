@@ -1,0 +1,3276 @@
+📚 GM Companion Guide – Volume 2: Trait & Flaw Library (Master Edition)
+
+This guide gives GMs a robust, categorized repository of 150+ unique Traits and Flaws to assign, interpret, or evolve across campaign play. Built to support emergent play, psychological complexity, and hard decisions.
+
+📘 VOLUME 2 – Trait & Flaw Library (Master Edition)
+
+Purpose: Deliver a robust, mechanical and narrative library of traits and flaws that define player capability, behavior patterns, and thematic resonance—without codified pressure systems.
+
+🔹 Contents:
+
+1. 150+ Entries
+
+Categorized by function:
+
+
+Combat
+
+
+Emotional
+
+
+Strategic
+
+
+Social
+
+
+Mental
+
+
+Moral
+
+
+Adaptive
+
+
+Each entry includes:
+
+
+Narrative description
+
+
+Gameplay effect
+
+
+Situational or personality-based trigger
+
+
+2. Trait/Flaw Structure
+
+Traits offer small, story-driven mechanical boosts or behavior cues
+
+
+Flaws introduce complications, pressure points, or subtle vulnerabilities
+
+
+No stat tracking—pure narrative mechanics
+
+
+3. Archetype Sets + Index
+
+Pre-built bundles for character types:
+
+
+The Protector, The Survivor, The Opportunist, etc.
+
+
+Index for fast GM lookup or player choice aid
+
+📖 Format per Entry
+
+Each Trait or Flaw will follow this structure:
+
+✦ Name
+
+Type: (Core | Conditional | Latent | Passive | Situational)
+ Description: 1–2 sentence narrative impact
+ Gameplay Effect: Bonus, penalty, or behavior effect
+ Triggers / Risk Factors: Conditions where the trait may help or hinder
+ Evolution Path (optional): How it might grow, worsen, or transform
+
+🧬 Trait Categories 
+
+Psychological Traits – e.g., Unshakable, Obsessive, Empathic, Hypervigilant
+
+
+Social Traits – e.g., Charming, Intimidating, Peacekeeper, Distrustful
+
+
+Moral Traits – e.g., Codebound, Justifier, Redeemer, Utilitarian
+
+
+Tactical Traits – e.g., Instinctive, Planner, Improviser, First In
+
+
+Physical Traits – e.g., Tank, Sprinter, Durable, Frail-but-Precise
+
+
+Resource Traits – e.g., Scavenger, Efficient, Hoarder, Minimalist
+
+
+Leadership Traits – e.g., Commander, Anchor, Inspiring, Autocratic
+
+
+Unique/Personal – For rare quirks, traumas, and story-catalysts
+
+
+e.g., Sleeps with Light On, Hears the Dead, Carries a Name, Sees Patterns
+
+
+☠️ Flaw Categories 
+
+Emotional Flaws – Fear of Failure, Guilt Magnet, Abandonment Trauma
+
+
+Behavioral Flaws – Impulse Control, Overextends, Always the Hero
+
+
+Social Flaws – Alienates Allies, Can’t Take Orders, Unapproachable
+
+
+Cognitive Flaws – Delusional, Paranoia, Analysis Paralysis
+
+
+Combat/Risk Flaws – Freezes Under Fire, Bloodlust, Flashbacks
+
+
+Dependency Flaws – Sleep Deprived, Addictive Coping, Craves Praise
+
+
+Ethical Weak Points – Rationalizes Harm, Hypocrite, Will Break Oath
+
+
+Mystery/Hidden – Secret Killer, Identity Lie, Binds to the Wrong Cause
+
+🔁 Trait & Flaw Pair Logic
+
+Many traits will have corresponding flaw forms—e.g.:
+
+This creates a flexible matrix to reflect both strengths and shadow traits—ideal for long-term character growth.
+
+🧠 PSYCHOLOGICAL TRAITS 
+
+✦ Unshakable
+
+Type: Core
+ Description: Rarely cracks under pressure. Calm, even in chaos.
+ Gameplay Effect: +1 to Sanity checks during trauma or horror events.
+ Triggers / Risk Factors: May struggle to emotionally connect.
+ Evolution Path: “Stoic Guardian” or “Emotional Bottleneck”
+
+✦ Hyperfocused
+
+Type: Conditional
+ Description: Can lock in on one problem and burn through it obsessively.
+ Gameplay Effect: +2 on single-task actions, -1 to peripheral awareness.
+ Triggers / Risk Factors: May ignore team needs.
+ Evolution Path: “Master Technician” or “Tunnel Vision”
+
+✦ Optimist
+
+Type: Passive
+ Description: Always finds a silver lining, even when there shouldn’t be one.
+ Gameplay Effect: Reduces group despair penalties by 1 in loss scenarios.
+ Triggers / Risk Factors: May become naive or unprepared.
+ Evolution Path: “Hope-Bearer” or “Broken Idealist”
+
+✦ Paranoid
+
+Type: Situational
+ Description: Sees threats where others don’t—but is right more often than not.
+ Gameplay Effect: Can detect hidden agendas or traps (+1) at the cost of social friction.
+ Triggers / Risk Factors: Trust issues, isolation, false positives.
+ Evolution Path: “Dark Prophet” or “Saboteur”
+
+✦ Calculating
+
+Type: Core
+ Description: Weighs every action. Nothing is random.
+ Gameplay Effect: Gains reroll once per day on tactical, planning, or resource-based checks.
+ Triggers / Risk Factors: Hesitates in spontaneous situations.
+ Evolution Path: “Strategic Mastermind” or “Emotionless Planner”
+
+✦ Curious
+
+Type: Core
+ Description: Must know how things work. Opens every door.
+ Gameplay Effect: Bonus clue detection or secret finding (+1).
+ Triggers / Risk Factors: Risk-prone. May break protocol to investigate.
+ Evolution Path: “Field Scholar” or “Unleashed Catalyst”
+
+✦ Mindful
+
+Type: Passive
+ Description: Practices emotional and sensory awareness. Breathes, observes, responds.
+ Gameplay Effect: +1 to recovery checks after mental trauma or strain.
+ Triggers / Risk Factors: May pause too long in high-pressure sequences.
+ Evolution Path: “Centered Guardian” or “Detached Observer”
+
+✦ Adaptive Thinker
+
+Type: Core
+ Description: Thinks fast. Shifts strategies mid-move.
+ Gameplay Effect: Ignore -1 penalties from surprise, darkness, or sudden chaos.
+ Triggers / Risk Factors: May clash with rigid planners.
+ Evolution Path: “Flow Operator” or “Rogue Agent”
+
+✦ Pattern Seeker
+
+Type: Conditional
+ Description: Notices trends others miss. Draws connections no one else sees.
+ Gameplay Effect: Bonus insight into enemy behavior, movement, or spread.
+ Triggers / Risk Factors: May interpret noise as signal.
+ Evolution Path: “Oracle” or “Conspiracist”
+
+✦ Detached
+
+Type: Passive
+ Description: Keeps a healthy emotional distance to protect themselves.
+ Gameplay Effect: Immune to manipulation, guilt, or emotional coercion.
+ Triggers / Risk Factors: Reduced empathy, may seem cold.
+ Evolution Path: “Tactician” or “Isolate”
+
+✦ Driven
+
+Type: Core
+ Description: Has a purpose. It defines them.
+ Gameplay Effect: +1 to complete long-term personal goals.
+ Triggers / Risk Factors: Burns out if goal becomes impossible.
+ Evolution Path: “Force of Will” or “Obsessive Pursuer”
+
+✦ Calculated Risk-Taker
+
+Type: Tactical
+ Description: Doesn’t shy away from risk—but never leaps blind.
+ Gameplay Effect: Reroll 1 failed attempt per day where odds are against them.
+ Triggers / Risk Factors: May still take unjustified risks for gain.
+ Evolution Path: “Heroic Operator” or “Broken Gambler”
+
+✦ Restless Mind
+
+Type: Latent
+ Description: Never stops thinking. Always moving from one idea to the next.
+ Gameplay Effect: Gains insight rolls faster, but suffers penalties on sustained tasks.
+ Triggers / Risk Factors: Fatigue, team frustration.
+ Evolution Path: “Innovator” or “Mental Spiral”
+
+✦ Overprepared
+
+Type: Core
+ Description: Plans for every possibility. Then adds one more.
+ Gameplay Effect: +1 to resource planning, pre-mission loadouts.
+ Triggers / Risk Factors: Suffers under improvisation or chaos.
+ Evolution Path: “Quartermaster” or “Frozen Planner”
+
+✦ Survivor's Grit
+
+Type: Passive
+ Description: Has already been through hell. And came out stronger.
+ Gameplay Effect: +1 on all Willpower/Endurance rolls when solo.
+ Triggers / Risk Factors: May default to isolation.
+ Evolution Path: “Iron Willed” or “Burned Out”
+
+✦ Lucid Dreamer
+
+Type: Unique
+ Description: Sees visions. Maybe future. Maybe past.
+ Gameplay Effect: Can occasionally receive GM-fed glimpses or intuitive insights.
+ Triggers / Risk Factors: Player cannot always control when it happens.
+ Evolution Path: “Seer” or “Fractured Mind”
+
+✦ Introspective
+
+Type: Passive
+ Description: Turns inward often. Reflects deeply.
+ Gameplay Effect: Gains narrative XP faster from personal failures.
+ Triggers / Risk Factors: Risk of emotional withdrawal.
+ Evolution Path: “Sage” or “Self-Doubt Spiral”
+
+✦ Compartmentalizer
+
+Type: Conditional
+ Description: Locks away trauma until it’s convenient to feel it.
+ Gameplay Effect: No penalty for trauma mid-mission; doubles post-mission impact.
+ Triggers / Risk Factors: Long-term mental collapse risk.
+ Evolution Path: “Unbreakable Front” or “Delayed Breakdown”
+
+✦ Focused Under Fire
+
+Type: Core
+ Description: Stress makes them better.
+ Gameplay Effect: +1 to actions while wounded, scared, or under time limit.
+ Triggers / Risk Factors: May seek danger subconsciously.
+ Evolution Path: “Combat Tactician” or “Adrenaline Addict”
+
+✦ Internal Compass
+
+Type: Moral
+ Description: Has a clear inner code—and follows it no matter what.
+ Gameplay Effect: Gains reroll on any choice-related moral crisis.
+ Triggers / Risk Factors: Cannot compromise easily.
+ Evolution Path: “Pillar” or “Broken Zealot”
+
+🗣️ SOCIAL TRAITS 
+
+✦ Charismatic
+
+Type: Core
+ Description: People want to follow them. Words land. Presence commands.
+ Gameplay Effect: +1 to all social influence rolls when speaking to individuals or crowds.
+ Triggers / Risk Factors: May gain unwanted followers or suspicion from rivals.
+ Evolution Path: “Rallying Flame” or “Charmer with a Hidden Blade”
+
+✦ Trustworthy
+
+Type: Passive
+ Description: Something about them earns belief—even from skeptics.
+ Gameplay Effect: +1 to initial trust checks, especially from survivors or NPC factions.
+ Triggers / Risk Factors: Breaking trust hits harder—longer penalties.
+ Evolution Path: “Moral Compass” or “Fall from Grace”
+
+✦ Quiet Listener
+
+Type: Core
+ Description: Doesn’t need to talk to lead. Gathers intel by observing.
+ Gameplay Effect: Bonus to uncovering motives or secrets when listening instead of acting.
+ Triggers / Risk Factors: May be overlooked in decision-making.
+ Evolution Path: “Silent Anchor” or “Watcher in the Shadows”
+
+✦ Charming Rogue
+
+Type: Conditional
+ Description: Knows how to disarm with wit, grin, or misdirection.
+ Gameplay Effect: Can reroll failed social check once per day, but raises suspicion on critical fail.
+ Triggers / Risk Factors: Authority figures, long-term allies.
+ Evolution Path: “People’s Ally” or “Master Manipulator”
+
+✦ Diplomatic
+
+Type: Core
+ Description: Skilled at keeping peace—even among the angry and broken.
+ Gameplay Effect: Reduces group tension, halves risk of internal fights or splits.
+ Triggers / Risk Factors: May stall critical decisions.
+ Evolution Path: “The Negotiator” or “Peace at Any Price”
+
+✦ Disarming Honesty
+
+Type: Passive
+ Description: Tells the truth—even when it hurts. Earns rare trust.
+ Gameplay Effect: Bonus to calming or de-escalating NPCs in tense situations.
+ Triggers / Risk Factors: May harm morale when facts are grim.
+ Evolution Path: “Unyielding Light” or “Painful Mirror”
+
+✦ Protective Presence
+
+Type: Core
+ Description: Makes people feel safer just by being around.
+ Gameplay Effect: Boosts team Sanity recovery and morale during downtime.
+ Triggers / Risk Factors: Morale collapse if they fall or turn.
+ Evolution Path: “Group Backbone” or “Overburdened Leader”
+
+✦ Empathic Speaker
+
+Type: Core
+ Description: Matches tone, reads moods, diffuses stress with ease.
+ Gameplay Effect: +1 to persuasion and morale support in volatile scenes.
+ Triggers / Risk Factors: May absorb others’ emotions unintentionally.
+ Evolution Path: “Emotional Linchpin” or “Compassion Fatigue”
+
+✦ Icebreaker
+
+Type: Situational
+ Description: Makes strangers laugh. Finds connection even in horror.
+ Gameplay Effect: Can shift initial tension with unknown NPCs.
+ Triggers / Risk Factors: Humor fails under grave stakes.
+ Evolution Path: “Morale Keeper” or “Inappropriate Joker”
+
+✦ Tactical Voice
+
+Type: Core
+ Description: Calm, clear, confident. Brings order to chaos.
+ Gameplay Effect: +1 to coordination or command rolls in combat or disaster.
+ Triggers / Risk Factors: Collapses if orders are ignored.
+ Evolution Path: “Field Commander” or “Undermined”
+
+✦ Bridge-Builder
+
+Type: Passive
+ Description: Connects opposites. Makes enemies talk.
+ Gameplay Effect: +1 to diplomacy between factions, rival squads, or bitter NPCs.
+ Triggers / Risk Factors: May get caught in the middle.
+ Evolution Path: “Trusted Mediator” or “Expendable Middleman”
+
+✦ Loyal Teammate
+
+Type: Core
+ Description: Never backstabs. Never walks out.
+ Gameplay Effect: +1 morale for group if this player is present on mission.
+ Triggers / Risk Factors: Will resist orders to leave allies behind.
+ Evolution Path: “Unshakable Partner” or “Martyr”
+
+✦ Unreadable
+
+Type: Passive
+ Description: Nobody knows what they’re thinking—and that’s power.
+ Gameplay Effect: Immune to manipulation or social-based threats.
+ Triggers / Risk Factors: Low trust until proven.
+ Evolution Path: “Intelligence Asset” or “Suspect in the Ranks”
+
+✦ Voice of Reason
+
+Type: Core
+ Description: When tempers rise, they cut through with logic.
+ Gameplay Effect: Advantage on de-escalation and re-centering team in arguments.
+ Triggers / Risk Factors: May lose cool when logic fails.
+ Evolution Path: “Stabilizer” or “Silenced Thinker”
+
+✦ Advocate
+
+Type: Moral
+ Description: Speaks up for those who can’t.
+ Gameplay Effect: NPCs with low power/status are more likely to respond favorably.
+ Triggers / Risk Factors: Authority figures, risk-heavy missions.
+ Evolution Path: “Public Defender” or “Scapegoat”
+
+✦ Masked Performer
+
+Type: Hidden
+ Description: Wears a social mask. You see what they want you to.
+ Gameplay Effect: Can impersonate, lie, or feign emotion with +1 bonus.
+ Triggers / Risk Factors: Slips under stress, long-term surveillance.
+ Evolution Path: “Ghost Operator” or “Revealed Hollow”
+
+✦ Inspiring
+
+Type: Passive
+ Description: Not just followed—believed in.
+ Gameplay Effect: Grants allies advantage on morale or resistance rolls once per day.
+ Triggers / Risk Factors: Depression or withdrawal devastates group morale.
+ Evolution Path: “Beacon” or “Collapsed Idol”
+
+✦ Boundary Enforcer
+
+Type: Conditional
+ Description: Doesn’t let people step over the line. Respects and demands space.
+ Gameplay Effect: Immune to social pressure; can protect others from same.
+ Triggers / Risk Factors: Cold, unapproachable if misread.
+ Evolution Path: “Protective Wall” or “Isolated Defender”
+
+✦ Voice for the Dead
+
+Type: Unique
+ Description: Keeps memory of the fallen alive. Names. Stories. Moments.
+ Gameplay Effect: Reduces Sanity loss when processing grief in group.
+ Triggers / Risk Factors: High exposure to loss can become overwhelming.
+ Evolution Path: “Historian” or “Grief Consumed”
+
+✦ Cultivator
+
+Type: Social–Support
+ Description: Invests in people. Makes others grow.
+ Gameplay Effect: Assigns +1 XP once per week to another teammate after downtime RP.
+ Triggers / Risk Factors: Emotional fallout if protégé dies or turns.
+ Evolution Path: “Mentor” or “Failed Teacher”
+
+🎯 TACTICAL TRAITS (10)
+
+✦ Instinctive
+
+Type: Core
+ Description: Doesn’t overthink. Feels the right move before it forms.
+ Gameplay Effect: +1 to first action taken in any crisis round.
+ Triggers / Risk Factors: May struggle with team consensus or preplanning.
+ Evolution Path: “Combat Natural” or “Loose Cannon”
+
+✦ Planner
+
+Type: Core
+ Description: Always thinks two moves ahead—and has a backup for each.
+ Gameplay Effect: May pre-allocate one success per session to any future roll (non-combat).
+ Triggers / Risk Factors: Struggles in chaotic, unstructured environments.
+ Evolution Path: “Architect” or “Gridlocked Analyst”
+
+✦ Improviser
+
+Type: Situational
+ Description: Makes chaos into tools. Turns junk into solutions.
+ Gameplay Effect: +1 on any roll using unorthodox methods or found items.
+ Triggers / Risk Factors: Penalized when forced to follow protocol.
+ Evolution Path: “Mad Mechanic” or “Unstable Innovator”
+
+✦ Frontliner
+
+Type: Core
+ Description: Meant to take the hit. Doesn’t hesitate to lead charges.
+ Gameplay Effect: +1 to resist suppression, fear, or crowd-control effects.
+ Triggers / Risk Factors: May overexpose themselves during breaches.
+ Evolution Path: “War Wall” or “Cratered Body”
+
+✦ Watchdog
+
+Type: Passive
+ Description: Eyes always moving. Hears the click before the trap springs.
+ Gameplay Effect: +1 to detect hidden danger, motion, sound, or shadow.
+ Triggers / Risk Factors: May burn out mentally in safe zones.
+ Evolution Path: “Early Warning System” or “Paranoid Seer”
+
+✦ Flanker
+
+Type: Tactical
+ Description: Doesn’t go through the front door. Finds the angle others miss.
+ Gameplay Effect: +1 when attacking from surprise, distraction, or odd terrain.
+ Triggers / Risk Factors: Suffers when boxed in or forced to hold line.
+ Evolution Path: “Shadow Operative” or “Cut Off and Bleeding”
+
+✦ Point Controller
+
+Type: Leadership
+ Description: Coordinates fire lanes, angles, movement. Efficient and crisp.
+ Gameplay Effect: Teammates gain +1 on attacks or skill rolls under this player’s tactical command.
+ Triggers / Risk Factors: Chaos, disobedience, panicking allies.
+ Evolution Path: “Battlefield General” or “Overloaded Commander”
+
+✦ Red Zone Learner
+
+Type: Adaptive
+ Description: The worse it gets, the faster they level up.
+ Gameplay Effect: After surviving a near-death or critical failure, gain 1 bonus XP.
+ Triggers / Risk Factors: May subconsciously seek danger.
+ Evolution Path: “Trial-Hardened” or “Collapse Junkie”
+
+✦ Area Denial Specialist
+
+Type: Combat-Support
+ Description: Uses terrain, traps, or fire to block and shape enemy behavior.
+ Gameplay Effect: +1 when prepping traps, kill zones, or holding points.
+ Triggers / Risk Factors: Penalized in open or mobile fights.
+ Evolution Path: “Zone Reaper” or “Static Thinker”
+
+✦ Risk Translator
+
+Type: Strategic
+ Description: Can smell danger before it’s visible—and articulate it clearly.
+ Gameplay Effect: Once per session, may predict likely consequences of a group decision.
+ Triggers / Risk Factors: Ignored instincts can sour morale.
+ Evolution Path: “Long View Planner” or “Doom Whisperer”
+
+🦾 PHYSICAL TRAITS (10)
+
+✦ Durable
+
+Type: Core
+ Description: Doesn’t go down easy. Built for punishment.
+ Gameplay Effect: +1 to Health and pain resistance rolls.
+ Triggers / Risk Factors: May ignore critical injuries too long.
+ Evolution Path: “Iron Wall” or “Shattered Backbone”
+
+✦ Nimble
+
+Type: Core
+ Description: Fast on their feet, quick with their hands.
+ Gameplay Effect: +1 to dodging traps, navigating tight spaces, or escaping grabs.
+ Triggers / Risk Factors: Reduced carry capacity; worse under heavy armor.
+ Evolution Path: “Escape Artist” or “One Too Slow”
+
+✦ Juggernaut
+
+Type: Physical–Tactical
+ Description: Once they start moving, they don’t stop.
+ Gameplay Effect: May ignore 1 point of physical resistance or obstacle per charge/move.
+ Triggers / Risk Factors: Can’t pivot easily, vulnerable to flanks.
+ Evolution Path: “Shock Tank” or “Overextended”
+
+✦ Sprinter
+
+Type: Conditional
+ Description: Moves fast—when the moment counts.
+ Gameplay Effect: First in or out of almost any scene; +1 to chase/speed-based rolls.
+ Triggers / Risk Factors: Penalized in long endurance or carry-load scenes.
+ Evolution Path: “Flashpoint” or “Overclocked”
+
+✦ Night-Eyed
+
+Type: Sensory
+ Description: Sees better in dim light or shadow than most.
+ Gameplay Effect: -1 penalty removed during night-based exploration or recon.
+ Triggers / Risk Factors: Bright light disorients.
+ Evolution Path: “Nocturnal Stalker” or “Cave-Walker”
+
+✦ Ambidextrous
+
+Type: Precision
+ Description: Uses both hands equally—fluid, fast, effective.
+ Gameplay Effect: Dual-wielding penalties halved; +1 to multitasking checks.
+ Triggers / Risk Factors: None—rare genetic trait.
+ Evolution Path: “Two-Hand Death” or “Split-Focus”
+
+✦ Pain-Tolerant
+
+Type: Endurance
+ Description: Takes injuries in stride. Doesn’t scream. Doesn’t stop.
+ Gameplay Effect: May ignore minor wound penalties once per session.
+ Triggers / Risk Factors: Risk of hidden internal damage.
+ Evolution Path: “Silent Shield” or “Bleeding Mule”
+
+✦ Tracker’s Gait
+
+Type: Environmental
+ Description: Moves softly. Leaves no trace.
+ Gameplay Effect: +1 to stealth and environmental traversal checks.
+ Triggers / Risk Factors: Reduced combat benefit; not loud or threatening.
+ Evolution Path: “Silent Hunter” or “Ghost-Blooded”
+
+✦ Sure-Footed
+
+Type: Terrain
+ Description: Rocks, ice, beams—no problem.
+ Gameplay Effect: Immune to terrain-related falls or balance failures.
+ Triggers / Risk Factors: May become overconfident on new terrain types.
+ Evolution Path: “Terrain Master” or “Hubris Trip”
+
+✦ Bio-Tuned
+
+Type: Physical–Rare
+ Description: Body responds well to stress and adapts faster than average.
+ Gameplay Effect: Doubles healing rate from rest or medicine.
+ Triggers / Risk Factors: May mutate subtly over time (GM discretion).
+ Evolution Path: “Exemplar” or “Off-Template”
+
+🧰 RESOURCE & INFRASTRUCTURE TRAITS (10)
+
+✦ Makeshift Engineer
+
+Type: Utility
+ Description: Repairs, rebuilds, and patches with anything that fits.
+ Gameplay Effect: +1 to field repair, barricade reinforcement, and tool improvisation.
+ Triggers / Risk Factors: May cut corners; solutions break over time.
+ Evolution Path: “Field Mechanic” or “Collapse Hazard”
+
+✦ Efficient Forager
+
+Type: Resource
+ Description: Always finds what others overlook—berries, wire, bandages.
+ Gameplay Effect: +1 to Scavenge or Search checks in all environments.
+ Triggers / Risk Factors: Prone to overconfidence in dangerous ruins.
+ Evolution Path: “Salvage King/Queen” or “Poison Picker”
+
+✦ Builder’s Mind
+
+Type: Infrastructure
+ Description: Thinks in reinforcement, load-bearing, and geometry.
+ Gameplay Effect: +1 to permanent structure design, base upgrades, and reinforcement rolls.
+ Triggers / Risk Factors: May undervalue mobility or temporary fixes.
+ Evolution Path: “Compound Architect” or “Sunk Cost Trapper”
+
+✦ Botanist
+
+Type: Agriculture
+ Description: Knows what grows, how to grow it, and how to keep it alive.
+ Gameplay Effect: Boosts long-term food yield and crop resilience.
+ Triggers / Risk Factors: Frustrated in urban or winter locations.
+ Evolution Path: “Survivor’s Gardener” or “Wilted Faith”
+
+✦ Armorer
+
+Type: Equipment
+ Description: Modifies, sharpens, upgrades. Knows materials inside out.
+ Gameplay Effect: Boosts group gear durability and armor effectiveness.
+ Triggers / Risk Factors: Needs time and parts—not ideal under fire.
+ Evolution Path: “Craftsman” or “Rustmaster”
+
+✦ Cook
+
+Type: Morale-Support
+ Description: A real meal changes everything.
+ Gameplay Effect: Boosts group morale recovery and health from meals.
+ Triggers / Risk Factors: Resource waste if overused; penalty if kitchen destroyed.
+ Evolution Path: “Camp Hearth” or “Last Supper”
+
+✦ Water Finder
+
+Type: Survival
+ Description: Can pull hydration from seemingly dry zones.
+ Gameplay Effect: +1 to clean water discovery or filtration crafting.
+ Triggers / Risk Factors: May ignore contamination risks.
+ Evolution Path: “Lifespring” or “Tainted Well”
+
+✦ Quartermaster
+
+Type: Logistics
+ Description: Tracks every can, bullet, and bandage.
+ Gameplay Effect: Prevents waste; group uses 10% fewer resources per mission.
+ Triggers / Risk Factors: Overstressed during crises.
+ Evolution Path: “Logistics Officer” or “Bean Counter”
+
+✦ Fuel Scavenger
+
+Type: Mobility
+ Description: Knows how to siphon, synthesize, or extend any power source.
+ Gameplay Effect: +1 to vehicle recovery, generator function, and fuel salvage.
+ Triggers / Risk Factors: High-risk environments (gas stations, tankers).
+ Evolution Path: “Power Runner” or “Fuel Fire Victim”
+
+✦ Medic
+
+Type: Support
+ Description: Knows how to treat wounds, calm panic, and stabilize the dying.
+ Gameplay Effect: Grants +1 to medical rolls and allows field stabilization.
+ Triggers / Risk Factors: Trauma builds if too many die under their care.
+ Evolution Path: “Lifeline” or “PTSD Healer”
+
+⚖️ MORAL TRAITS (10)
+
+✦ Code-Follower
+
+Type: Moral
+ Description: Has rules they live by. Doesn’t break them—no matter the cost.
+ Gameplay Effect: Immune to corruption/temptation if it violates core code.
+ Triggers / Risk Factors: Conflicts with pragmatic decisions.
+ Evolution Path: “Saint” or “Broken Idealist”
+
+✦ Second-Chancer
+
+Type: Compassion
+ Description: Believes everyone can change—until proven otherwise.
+ Gameplay Effect: Can reduce hostility of hostile NPCs through RP.
+ Triggers / Risk Factors: May trust dangerous individuals too long.
+ Evolution Path: “Hope-Bearer” or “Dead Believer”
+
+✦ Mercy-Killer
+
+Type: Moral–Dark
+ Description: Knows when it’s time to end suffering. Doesn’t flinch.
+ Gameplay Effect: Morale does not drop when forced to kill infected/lost loved ones.
+ Triggers / Risk Factors: Resentment from others; guilt if wrong.
+ Evolution Path: “Savior’s Burden” or “Axe-Wielder”
+
+✦ Guardian
+
+Type: Protector
+ Description: Picks one person or group to protect. Everything is done for them.
+ Gameplay Effect: +1 to defensive or saving actions tied to chosen subject.
+ Triggers / Risk Factors: May act irrationally when they’re in danger.
+ Evolution Path: “Shield of the Few” or “Blind Guardian”
+
+✦ Civilizer
+
+Type: Social–Moral
+ Description: Brings laws, systems, structure—order to chaos.
+ Gameplay Effect: Helps create and sustain group governance.
+ Triggers / Risk Factors: May be seen as controlling or authoritarian.
+ Evolution Path: “Builder of Order” or “Dictator Seed”
+
+✦ Forgiving
+
+Type: Emotional
+ Description: Doesn’t carry grudges. Opens doors for redemption.
+ Gameplay Effect: Prevents team fractures after betrayal, failure, or accidents.
+ Triggers / Risk Factors: May become a doormat if not balanced.
+ Evolution Path: “Wise Leader” or “Used Again”
+
+✦ Self-Sacrificing
+
+Type: Altruistic
+ Description: Puts others first—even when it hurts.
+ Gameplay Effect: May take damage, penalties, or conditions in place of others.
+ Triggers / Risk Factors: Often targeted first.
+ Evolution Path: “Sainted Shield” or “Willing Martyr”
+
+✦ Honorable
+
+Type: Moral
+ Description: Doesn’t lie. Doesn’t cheat. Won’t kill if it isn’t necessary.
+ Gameplay Effect: Boosts reputation with survivors and factions with values.
+ Triggers / Risk Factors: Penalized in morally grey missions.
+ Evolution Path: “Paladin of Ruin” or “Deadweight Saint”
+
+✦ Confessor
+
+Type: Transparency
+ Description: Speaks truth about self, even when shameful.
+ Gameplay Effect: Strengthens team bond when revealing personal burdens.
+ Triggers / Risk Factors: Vulnerable to betrayal or ridicule.
+ Evolution Path: “Emotional Keystone” or “Oversharer”
+
+✦ Oathkeeper
+
+Type: Bonded
+ Description: When they promise something, it gets done—or they die trying.
+ Gameplay Effect: +1 morale and Willpower to keep vows made.
+ Triggers / Risk Factors: Despair or collapse if they break their word.
+ Evolution Path: “Iron Vow” or “Oathbreaker”
+
+🧩 MYSTERY / BONDED TRAITS (10)
+
+✦ Marked by the Past
+
+Type: Hidden
+ Description: A symbol, phrase, or person from before still follows them.
+ Gameplay Effect: GM may trigger memory-based events, connections, or bonuses tied to lost history.
+ Triggers / Risk Factors: Abandoned sites, old friends, recurring symbols.
+ Evolution Path: “Living Echo” or “Ghost of Another Life”
+
+✦ Spirit Bond
+
+Type: Metaphysical
+ Description: Feels watched over—by something or someone.
+ Gameplay Effect: Once per campaign arc, may miraculously survive something that should kill them.
+ Triggers / Risk Factors: Religious trauma, survivor guilt, hallucinations.
+ Evolution Path: “Chosen” or “Possessed Vessel”
+
+✦ Soul Anchor
+
+Type: Bonded
+ Description: Has one person they’d die for—and would damn the world to save.
+ Gameplay Effect: +1 to all actions if that person is in immediate danger.
+ Triggers / Risk Factors: Captures, illnesses, separation.
+ Evolution Path: “Fierce Protector” or “Obsessive Spiral”
+
+✦ Survivor’s Aura
+
+Type: Passive–Uncanny
+ Description: Wherever they go, things tend to live.
+ Gameplay Effect: NPCs and allies gain +1 to survival rolls when they’re nearby.
+ Triggers / Risk Factors: Superstition, blame if someone dies under their watch.
+ Evolution Path: “Talisman” or “Unlucky Saint”
+
+✦ Unfinished Business
+
+Type: Narrative
+ Description: Someone was left behind—or something never resolved.
+ Gameplay Effect: Can declare a narrative side goal tied to their past (grants bonus XP if fulfilled).
+ Triggers / Risk Factors: Emotional risk if ignored too long.
+ Evolution Path: “Avenger” or “Forgotten Promise”
+
+✦ Unknown Bloodline
+
+Type: Ancestral
+ Description: Born of something hidden, buried, or tainted.
+ Gameplay Effect: GM may grant occasional resistance or reaction to infected zones or threats.
+ Triggers / Risk Factors: Exposure to pathogen or relics.
+ Evolution Path: “Resistant Hybrid” or “Sleeping Curse”
+
+✦ Animal Kin
+
+Type: Rare
+ Description: Connects with animals instinctively.
+ Gameplay Effect: +1 to taming, calming, or understanding beasts. May attract strays.
+ Triggers / Risk Factors: Animal deaths hit harder.
+ Evolution Path: “Beast Whisperer” or “Packborn”
+
+✦ Relic Holder
+
+Type: Object-Bonded
+ Description: Carries an object of unknown origin or power.
+ Gameplay Effect: GM defines relic traits later; may evolve mid-campaign.
+ Triggers / Risk Factors: Tracked, coveted, feared.
+ Evolution Path: “Wielder” or “Bearer of Doom”
+
+✦ Repeating Pattern
+
+Type: Psychological
+ Description: Their life echoes a specific, repeated arc.
+ Gameplay Effect: Once per act, GM may “mirror” a past scene or decision for major impact.
+ Triggers / Risk Factors: Roleplay depth; hard choices that rhyme.
+ Evolution Path: “Cycle-Breaker” or “Prophecy Fulfilled”
+
+✦ Dream-Linked
+
+Type: Narrative–Mystic
+ Description: Sees events in dreams before they happen—though not clearly.
+ Gameplay Effect: May receive cryptic GM clues during sleep scenes.
+ Triggers / Risk Factors: Sleep deprivation, prophetic burden.
+ Evolution Path: “Dream-Walker” or “Sleepless Oracle”
+
+🎭 NARRATIVE META TRAITS (10)
+
+✦ Fate-Touched
+
+Type: Meta
+ Description: The dice seem to like them.
+ Gameplay Effect: Once per session, may reroll any failed roll.
+ Triggers / Risk Factors: May cause resentment in-universe or among players.
+ Evolution Path: “Starborn” or “Luck Exhausted”
+
+✦ Archetype-Breaker
+
+Type: Meta–Roleplay
+ Description: Builds against type and thrives doing it.
+ Gameplay Effect: Gains +1 on creative or counter-intuitive solutions.
+ Triggers / Risk Factors: Penalized when falling into clichés.
+ Evolution Path: “Genre Bender” or “Misfit Savior”
+
+✦ Spotlight Magnet
+
+Type: Meta
+ Description: Somehow always at the center of drama, action, or fate.
+ Gameplay Effect: GM may draw narrative beats toward this player for good or ill.
+ Triggers / Risk Factors: Risk of burnout, leadership overexposure.
+ Evolution Path: “Main Character Energy” or “Shattered Center”
+
+✦ Fourth Wall Flicker
+
+Type: Meta–Comedic
+ Description: Occasionally aware that they’re in a game—or something stranger.
+ Gameplay Effect: Can ask the GM one absurd or impossible question per campaign (GM must answer truthfully but cryptically).
+ Triggers / Risk Factors: Sanity effects, dreamscapes.
+ Evolution Path: “Cosmic Clown” or “Unhinged Prophet”
+
+✦ Death-Courted
+
+Type: Meta–Fatalist
+ Description: Knows their story ends in death—and leans into it.
+ Gameplay Effect: Gains +1 when knowingly risking their life.
+ Triggers / Risk Factors: Sacrifice, confrontation, loss of hope.
+ Evolution Path: “Hero’s End” or “Still Standing”
+
+✦ Scene Stealer
+
+Type: Narrative
+ Description: Emotionally magnetic. Takes over big moments.
+ Gameplay Effect: Once per session, can "cut scene" to themselves to take dramatic initiative.
+ Triggers / Risk Factors: May eclipse quieter characters.
+ Evolution Path: “Stage King/Queen” or “Burnout Flame”
+
+✦ Narrative Armor
+
+Type: Protective
+ Description: Danger dances around them—but for how long?
+ Gameplay Effect: Immune to instant death from non-player threats once per act.
+ Triggers / Risk Factors: Hubris. May tempt fate too often.
+ Evolution Path: “Teflon Soul” or “Glass Shard”
+
+✦ Tragedy Foreshadowed
+
+Type: Dark Meta
+ Description: Something about them screams doom.
+ Gameplay Effect: +1 to dramatic moments or sacrifice checks.
+ Triggers / Risk Factors: Group emotional impact.
+ Evolution Path: “Martyr Icon” or “Twist-Defier”
+
+✦ Theme-Bound
+
+Type: Symbolic
+ Description: Every action they take reinforces a core narrative idea (e.g. Hope, Vengeance).
+ Gameplay Effect: When fully aligned with theme, +1 to all rolls that reinforce it.
+ Triggers / Risk Factors: Broken belief = shattered ability.
+ Evolution Path: “Living Symbol” or “Shattered Truth”
+
+✦ Meta-Conduit
+
+Type: Rare
+ Description: Picks up on GM tone, patterns, foreshadowing.
+ Gameplay Effect: Once per session, may “predict” an NPC, trap, or event based on narrative read.
+ Triggers / Risk Factors: May overplay insight or become distrusted.
+ Evolution Path: “Storyseer” or “Plot-Broken”
+
+⚠️ CATCH-ALL FLAWS (10)
+
+☠️ Illiterate
+
+Type: Knowledge
+ Description: Can’t read—maybe never could.
+ Gameplay Effect: Cannot access books, written maps, signs, or coded warnings without aid.
+ Triggers / Risk Factors: Complex tech, written instructions.
+ Evolution Path: “Adapted Learner” or “Manipulated Tool”
+
+☠️ Criminal Record
+
+Type: Social
+ Description: Was arrested or convicted before the world collapsed.
+ Gameplay Effect: Certain groups/factions may react with fear, aggression, or mistrust.
+ Triggers / Risk Factors: Uniformed NPCs, survivors with old-world loyalty.
+ Evolution Path: “Reformed” or “Rebel Blood”
+
+☠️ Hunted
+
+Type: Narrative
+ Description: Someone—or something—is actively tracking them.
+ Gameplay Effect: GM may trigger threat events tied specifically to this player.
+ Triggers / Risk Factors: Camp exposure, recon trips.
+ Evolution Path: “Stalker’s Bane” or “Hunted to Death”
+
+☠️ Visibly Scarred
+
+Type: Social–Physical
+ Description: Has a mark, disfigurement, or injury that draws attention.
+ Gameplay Effect: -1 to persuasion in tense diplomacy, +1 to intimidation.
+ Triggers / Risk Factors: Civilian camps, mirror moments.
+ Evolution Path: “Wounded Survivor” or “Marked Pariah”
+
+☠️ Bad Liar
+
+Type: Social
+ Description: Can’t bluff. It’s all written on their face.
+ Gameplay Effect: -2 to any deception unless coached.
+ Triggers / Risk Factors: Interrogations, spy games.
+ Evolution Path: “Honest to Death” or “Panicked Faker”
+
+☠️ Claustrophobic
+
+Type: Phobia
+ Description: Tight spaces trigger full-blown panic.
+ Gameplay Effect: Must roll Resolve to enter vents, basements, or crawlspaces.
+ Triggers / Risk Factors: Collapsed buildings, bunkers.
+ Evolution Path: “Tunnel Brave” or “Sealed Fate”
+
+☠️ Burn Scars
+
+Type: Physical–Backstory
+ Description: Carries visible signs of fire injury.
+ Gameplay Effect: May reduce cold-based injury risk, but NPCs may react differently.
+ Triggers / Risk Factors: Flames, fire-based missions.
+ Evolution Path: “Ash-Walker” or “Melted Identity”
+
+☠️ Allergy Prone
+
+Type: Environmental
+ Description: Hyper-sensitive to triggers—pollen, dust, animals, etc.
+ Gameplay Effect: Disadvantage in certain biomes or events.
+ Triggers / Risk Factors: Spring, livestock, stored supplies.
+ Evolution Path: “Adapted Medic” or “Wheeze and Stumble”
+
+☠️ Head Injury Survivor
+
+Type: Medical
+ Description: Lives with lingering effects from a traumatic head wound.
+ Gameplay Effect: Memory gaps, +1 difficulty on focus checks.
+ Triggers / Risk Factors: Loud noises, sudden pressure shifts.
+ Evolution Path: “Cognitive Rebuilder” or “Cracked Lens”
+
+☠️ Luckless
+
+Type: Cosmic
+ Description: When things go wrong—they go extra wrong.
+ Gameplay Effect: GM may apply random failures 1x per act, even on good rolls.
+ Triggers / Risk Factors: Dice rolls, key moments, overconfidence.
+ Evolution Path: “Fated Tragedy” or “Beats the Odds Anyway”
+
+☠️ EMOTIONAL FLAWS
+
+☠️ Fear of Failure
+
+Type: Emotional
+ Description: Avoids action when success isn't guaranteed. Haunted by letting people down.
+ Gameplay Effect: Must pass a Resolve check to take major risks or leadership roles.
+ Triggers / Risk Factors: When stakes feel high or others are watching.
+ Evolution Path: “Unlikely Hero” or “Chronic Avoider”
+
+☠️ Guilt Magnet
+
+Type: Emotional
+ Description: Absorbs responsibility—even when it isn't theirs to carry.
+ Gameplay Effect: Morale drops faster when civilians or teammates are lost.
+ Triggers / Risk Factors: Post-mission reviews, arguments, group fractures.
+ Evolution Path: “Redeemer” or “Self-Punisher”
+
+☠️ Bottles Everything
+
+Type: Psychological
+ Description: Doesn’t talk about pain. Doesn’t cry. Doesn’t process.
+ Gameplay Effect: Cannot recover Sanity between sessions without specific outlet (writing, talking, etc.).
+ Triggers / Risk Factors: After deaths, losses, or arguments.
+ Evolution Path: “Explosive Breakdown” or “Quiet Survivor”
+
+☠️ Validation Addict
+
+Type: Emotional
+ Description: Needs to be needed. Needs to be seen.
+ Gameplay Effect: -1 to resolve or morale if efforts aren’t acknowledged.
+ Triggers / Risk Factors: Overachieves, underperforms in unseen roles.
+ Evolution Path: “Hero Complex” or “Spiteful Shadow”
+
+☠️ Emotional Volatility
+
+Type: Behavioral
+ Description: Anger, joy, grief—everything hits like a truck.
+ Gameplay Effect: May roll with advantage or disadvantage depending on state. GM’s call.
+ Triggers / Risk Factors: Interpersonal stress, betrayal, isolation.
+ Evolution Path: “Burning Heart” or “Emotional Risk Factor”
+
+☠️ Fear of Intimacy
+
+Type: Psychological
+ Description: Can fight beside you. Just don’t ask them to feel.
+ Gameplay Effect: -1 on bonding or trust-building checks.
+ Triggers / Risk Factors: When asked about past, love, or loss.
+ Evolution Path: “Unreachable Wall” or “Slowly Opening Door”
+
+☠️ Haunted
+
+Type: Psychological
+ Description: Something—or someone—they lost defines their pain.
+ Gameplay Effect: Random penalty each session based on environment (triggers: name, photo, landmark).
+ Triggers / Risk Factors: Familiar places, child survivors, names.
+ Evolution Path: “Vigil Guardian” or “Ghost-Chaser”
+
+☠️ Savior Syndrome
+
+Type: Emotional
+ Description: Must save everyone—even if it kills them.
+ Gameplay Effect: Will not leave behind injured teammates unless forced.
+ Triggers / Risk Factors: Rescue ops, retreats, triage situations.
+ Evolution Path: “Martyr” or “Resentful Savior”
+
+☠️ Fears Being Forgotten
+
+Type: Existential
+ Description: Legacy matters. Survival isn't enough—they need meaning.
+ Gameplay Effect: Must make a public impact each session or suffer morale drop.
+ Triggers / Risk Factors: Quiet roles, background assignments.
+ Evolution Path: “Symbol of Hope” or “Self-Destructive Icon”
+
+☠️ Abandonment Wound
+
+Type: Emotional
+ Description: Left behind before—and never forgot it.
+ Gameplay Effect: Panic or hostility when isolated.
+ Triggers / Risk Factors: Splitting parties, silent treatment, exile.
+ Evolution Path: “Group Glue” or “Saboteur of Trust”
+
+🧠 BEHAVIORAL & COGNITIVE FLAWS 
+
+☠️ Impulse Control
+
+Type: Behavioral
+ Description: Acts before thinking. Emotion over strategy.
+ Gameplay Effect: Must roll to resist temptation, provocation, or sudden risk.
+ Triggers / Risk Factors: Tense negotiations, emotional conflict, fear-based events.
+ Evolution Path: “Hard Lesson” or “Chaos Catalyst”
+
+☠️ Always the Hero
+
+Type: Behavioral
+ Description: Rushes in. Won’t let others take the hit—even when they should.
+ Gameplay Effect: Cannot resist intervening when others are threatened. +1 fatigue or injury risk.
+ Triggers / Risk Factors: Kidnappings, hostage situations, traps.
+ Evolution Path: “Beloved Leader” or “Fallen Idol”
+
+☠️ Distrustful
+
+Type: Social-Cognitive
+ Description: Doesn’t buy into good intentions. Keeps everyone at arm’s length.
+ Gameplay Effect: Slower group cohesion; must earn trust manually.
+ Triggers / Risk Factors: Infiltration events, moral arguments, ambiguous loyalties.
+ Evolution Path: “Vigilant Sentry” or “Saboteur by Doubt”
+
+☠️ Needs to Win
+
+Type: Behavioral
+ Description: Winning isn’t a goal—it’s survival. Can’t lose face.
+ Gameplay Effect: Will escalate simple disagreements into full-blown contests.
+ Triggers / Risk Factors: Power struggles, rival NPCs, leadership challenges.
+ Evolution Path: “Alpha Figure” or “Broken Tyrant”
+
+☠️ Analysis Paralysis
+
+Type: Cognitive
+ Description: Weighs every option too long. Gets stuck in “what ifs.”
+ Gameplay Effect: -1 to reaction time in high-stakes choices; loses tie-breaks.
+ Triggers / Risk Factors: Pressure, moral dilemmas, ambiguous data.
+ Evolution Path: “Precision Planner” or “Overwhelmed”
+
+☠️ Chronic Comparer
+
+Type: Emotional-Cognitive
+ Description: Always measuring themselves against others—often unfairly.
+ Gameplay Effect: -1 morale or self-confidence if another player shines in similar role.
+ Triggers / Risk Factors: Recognition ceremonies, leader praise, visible skill gaps.
+ Evolution Path: “Fighter for Worth” or “Toxic Underminer”
+
+☠️ Obsessive
+
+Type: Behavioral
+ Description: Can’t let go of tasks until they’re “perfect”—or ruined.
+ Gameplay Effect: Cannot exit mission task early without Willpower check.
+ Triggers / Risk Factors: Broken plans, shifting priorities.
+ Evolution Path: “Master of Detail” or “Cracked Perfectionist”
+
+☠️ Contrarian
+
+Type: Social-Cognitive
+ Description: Always takes the opposing stance—on principle.
+ Gameplay Effect: +1 resistance to persuasion, but hinders group cohesion.
+ Triggers / Risk Factors: Planning sessions, group votes, authority calls.
+ Evolution Path: “Rebel Thinker” or “Outcast”
+
+☠️ Memory Triggers
+
+Type: Cognitive-Trauma
+ Description: Certain sights, smells, or sounds can lock them in the past.
+ Gameplay Effect: GM may call for freeze or Sanity test when sensory triggers appear.
+ Triggers / Risk Factors: Environmental echoes of pre-collapse life.
+ Evolution Path: “Resilient Rememberer” or “Emotional Prisoner”
+
+☠️ One-Track Mind
+
+Type: Cognitive
+ Description: If they believe they’re right, nothing gets through.
+ Gameplay Effect: +1 on focused tasks, -2 to adapting when things change mid-action.
+ Triggers / Risk Factors: Command redirections, mission curveballs, betrayal.
+ Evolution Path: “Unstoppable Force” or “Unyielding Stubborn”
+
+🧪 VICE / DEPENDENCY FLAWS (10)
+
+☠️ Alcohol Dependent
+
+Type: Addiction
+ Description: Uses alcohol to numb pain or survive the day.
+ Gameplay Effect: Suffers -1 to morale or Sanity if unable to drink at least once per day.
+ Triggers / Risk Factors: Withdrawal, dry camps, rationing.
+ Evolution Path: “Functional Addict” or “Clean and Shaking”
+
+☠️ Adrenaline Junkie
+
+Type: Behavioral Dependency
+ Description: Feels alive only when it’s life or death.
+ Gameplay Effect: Morale and bonuses fade during calm or peaceful scenes.
+ Triggers / Risk Factors: Recovery periods, long stretches of quiet.
+ Evolution Path: “Hero of the Edge” or “Burnout Crash”
+
+☠️ Overeater
+
+Type: Stress Coping
+ Description: Consumes more than they need—when it’s available.
+ Gameplay Effect: Uses 1.5x rations per downtime unless restrained.
+ Triggers / Risk Factors: Stress, grief, overabundant supply.
+ Evolution Path: “Comfort Seeker” or “Resource Drain”
+
+☠️ Pain Pill Dependent
+
+Type: Chemical
+ Description: Built a tolerance—or an addiction—to numbing agents.
+ Gameplay Effect: -1 to Endurance and Willpower if unable to access meds every 48 hrs.
+ Triggers / Risk Factors: Injury, field missions, destroyed med storage.
+ Evolution Path: “Managed Crutch” or “Fiend”
+
+☠️ Workaholic
+
+Type: Psychological
+ Description: Can’t stop doing. Can’t sit still.
+ Gameplay Effect: Penalized recovery unless given tasks even during downtime.
+ Triggers / Risk Factors: Forced rest, order to pause.
+ Evolution Path: “Camp Pillar” or “Exhausted Leader”
+
+☠️ Secret Smoker
+
+Type: Habitual
+ Description: Hides their vice, but it helps them stay calm.
+ Gameplay Effect: +1 to Calm or Insight if access to nicotine; -1 if denied.
+ Triggers / Risk Factors: Search scenes, close quarters, limited resources.
+ Evolution Path: “Covert Cope” or “Nicotine Slave”
+
+☠️ Self-Harmer
+
+Type: Emotional
+ Description: Pain regulates them when nothing else does.
+ Gameplay Effect: May reduce Sanity loss but takes HP damage to do so.
+ Triggers / Risk Factors: Grief, helplessness, failure.
+ Evolution Path: “Scarred Survivor” or “Cycle of Hurt”
+
+☠️ Validation-Dependent
+
+Type: Social
+ Description: Needs external praise to feel useful or worthy.
+ Gameplay Effect: Penalized morale when actions aren’t acknowledged.
+ Triggers / Risk Factors: Team silence, missed recognition.
+ Evolution Path: “Recognition Hero” or “Collapse from Within”
+
+☠️ Gambling Instinct
+
+Type: Psychological
+ Description: Will always bet on risk—even when stakes are survival.
+ Gameplay Effect: Will ignore odds if a big gain is present.
+ Triggers / Risk Factors: Loot choices, strategic votes, resource trades.
+ Evolution Path: “Fortune’s Hand” or “The Cost of One Roll”
+
+☠️ Overmedicates
+
+Type: Trauma-Coping
+ Description: Trusts chemicals over time or people.
+ Gameplay Effect: May suppress trauma symptoms—but lowers max Willpower by 1.
+ Triggers / Risk Factors: Long-term dependency risk.
+ Evolution Path: “Numbed Veteran” or “Dead Inside”
+
+🩸 DARKNESS-TEMPTED FLAWS (10)
+
+☠️ Ruthless
+
+Type: Moral
+ Description: Will do whatever it takes. No hesitation.
+ Gameplay Effect: +1 to intimidation or tactical efficiency; -1 morale in allies after witnessing brutality.
+ Triggers / Risk Factors: Prisoners, surrender scenarios, wounded civilians.
+ Evolution Path: “Necessary Monster” or “Lone Wolf Outcast”
+
+☠️ Secret Sadist
+
+Type: Psychological
+ Description: Part of them enjoys the violence.
+ Gameplay Effect: May gain temporary bonuses after harming others, even enemies.
+ Triggers / Risk Factors: Close-quarters combat, interrogations.
+ Evolution Path: “Blood Angel” or “Slaughter Machine”
+
+☠️ Weapon Obsessed
+
+Type: Behavioral
+ Description: Feels powerful through weapons—stockpiles, over-arms, overkills.
+ Gameplay Effect: -1 penalty to disarmament diplomacy; +1 with arms checks.
+ Triggers / Risk Factors: Disarm orders, leadership shifts, civilian zones.
+ Evolution Path: “Walking Arsenal” or “Gun Ghoul”
+
+☠️ Ideologue
+
+Type: Moral Rigidity
+ Description: Believes in their worldview above all—even survival.
+ Gameplay Effect: Can’t compromise on core ideals.
+ Triggers / Risk Factors: Faction politics, ethics crises, diplomacy.
+ Evolution Path: “Beacon of Fire” or “Fascist Flame”
+
+☠️ Enemy Empathizer
+
+Type: Moral Conflict
+ Description: Sees the “other side” as still human.
+ Gameplay Effect: Hesitates to strike or kill unless absolutely necessary.
+ Triggers / Risk Factors: Infected children, enemy surrender, spies.
+ Evolution Path: “Humanitarian” or “Endangering Heart”
+
+☠️ Power Hungry
+
+Type: Social–Moral
+ Description: Craves leadership, dominance, and control.
+ Gameplay Effect: Will attempt to seize control if leadership appears weak.
+ Triggers / Risk Factors: Leader stumbles, elections, crisis of command.
+ Evolution Path: “Strong Hand” or “Ruthless Usurper”
+
+☠️ Secret Collaborator
+
+Type: Betrayal
+ Description: Once worked with the enemy. Still might be.
+ Gameplay Effect: NPCs or factions may recognize or expose this connection.
+ Triggers / Risk Factors: Recon, prison rescues, memory leaks.
+ Evolution Path: “Redeemed Spy” or “Rot From Within”
+
+☠️ Pleasure Seeker
+
+Type: Hedonist
+ Description: In apocalypse, finds highs—physical, sexual, chemical.
+ Gameplay Effect: Penalized when denied pleasure outlets; gains morale when indulged.
+ Triggers / Risk Factors: Shortages, discipline rules, social tension.
+ Evolution Path: “Joyfinder” or “Addiction Spiral”
+
+☠️ Will Breaker
+
+Type: Torturer
+ Description: Knows how to extract answers—and does.
+ Gameplay Effect: +1 to interrogation; -2 reputation with ethical factions.
+ Triggers / Risk Factors: Captive events, reputation checks, justice trials.
+ Evolution Path: “Information Master” or “Feared Monster”
+
+☠️ Glory Chaser
+
+Type: Narcissist
+ Description: Wants to be remembered—not just survive.
+ Gameplay Effect: +1 when others are watching; -1 when unseen or forgotten.
+ Triggers / Risk Factors: Solo missions, routine duties, loss of spotlight.
+ Evolution Path: “Legend” or “Flameout Star”
+
+🧰 PRE-GENERATED TRAIT & FLAW SETS
+
+1. THE MEDIC
+
+Traits:
+
+✦ Calm Under Fire
+
+
+✦ Medic
+
+
+✦ Empath
+
+
+✦ Builder’s Mind (for triage setups)
+
+
+Flaws:
+
+☠️ Self-Harmer (trauma relief)
+
+
+☠️ Overmedicates
+
+
+Narrative Hook:
+ Knows they can’t save everyone—but will try anyway.
+ GM Note: Useful in guilt arcs or sacrifice moments. Lean into burnout risk or dependency conflicts.
+
+2. THE SCOUT
+
+Traits:
+
+✦ Silent Mover
+
+
+✦ Night Sight
+
+
+✦ Efficient Forager
+
+
+✦ Pattern Seeker
+
+
+Flaws:
+
+☠️ Claustrophobic
+
+
+☠️ Adrenaline Junkie
+
+
+☠️ One-Track Mind (focus on terrain vs people)
+
+
+Narrative Hook:
+ Never gets surprised—but always feels alone.
+ GM Note: Great for high-tension solo recon or loyalty testing. Can be drawn into moral compromise.
+
+3. THE PROTECTOR
+
+Traits:
+
+✦ Soul Anchor
+
+
+✦ Guardian
+
+
+✦ Strong Constitution
+
+
+✦ High Pain Tolerance
+
+
+✦ Close Combat Specialist
+
+
+Flaws:
+
+☠️ Self-Sacrificing
+
+
+☠️ PTSD (implied) via “Validation-Dependent” or “Overmedicates”
+
+
+Narrative Hook:
+ Will burn themselves to keep others warm.
+ GM Note: Ideal for martyr arcs or leadership strain. Pair with NPC bond for maximum stakes.
+
+4. THE SCHEMER
+
+Traits:
+
+✦ Cold Logic
+
+
+✦ Diplomat
+
+
+✦ Strategic Planner
+
+
+✦ Power Hungry (as semi-trait)
+
+
+Flaws:
+
+☠️ Ruthless
+
+
+☠️ Bad Liar (optional for tension)
+
+
+☠️ Contrarian
+
+
+Narrative Hook:
+ Knows the best move—but people rarely like it.
+ GM Note: Great for sowing drama or testing player morality. Ideal manipulator or dark-card leader.
+
+5. THE BROKEN SURVIVOR
+
+Traits:
+
+✦ Will of Iron (barely holding on)
+
+
+✦ Unfinished Business
+
+
+✦ Tragedy Foreshadowed
+
+
+✦ Second-Chancer (hope buried deep)
+
+
+Flaws:
+
+☠️ Alcohol Dependent
+
+
+☠️ Self-Harmer
+
+
+☠️ Luckless
+
+
+Narrative Hook:
+ Has nothing left to lose—or everything to atone for.
+ GM Note: Strong for slow-burn redemption arcs or deep emotional play. Ideal wild card.
+
+6. THE IDEALIST
+
+Traits:
+
+✦ Code-Follower
+
+
+✦ Honorable
+
+
+✦ Advocate
+
+
+✦ Voice for the Dead
+
+
+Flaws:
+
+☠️ Enemy Empathizer
+
+
+☠️ Analysis Paralysis
+
+
+☠️ Guilt Magnet
+
+
+Narrative Hook:
+ Wants to build something better in a world that no longer deserves it.
+ GM Note: They’re powerful in debates and camp politics—but break under impossible compromise.
+
+7. THE BRUTE
+
+Traits:
+
+✦ Juggernaut
+
+
+✦ Pain-Tolerant
+
+
+✦ Durable
+
+
+✦ Close Combat Specialist
+
+
+Flaws:
+
+☠️ Impulse Control
+
+
+☠️ One-Track Mind
+
+
+☠️ Ruthless (optional if morally grey)
+
+
+Narrative Hook:
+ Violence was the only thing that ever worked.
+ GM Note: Useful in physical play and intimidation scenes. Test them with moral restraint dilemmas.
+
+8. THE GHOST
+
+Traits:
+
+✦ Silent Mover
+
+
+✦ Tracker’s Gait
+
+
+✦ Detached
+
+
+✦ Unreadable
+
+
+✦ Repeating Pattern
+
+
+Flaws:
+
+☠️ Bottles Everything
+
+
+☠️ Memory Triggers
+
+
+☠️ Hunted
+
+
+Narrative Hook:
+ Exists in the cracks. You forget they were there—until it’s too late.
+ GM Note: Ideal for hidden backstory arcs or secret quests. Low social connection, high RP potential.
+
+9. THE ENGINEER
+
+Traits:
+
+✦ Makeshift Engineer
+
+
+✦ Builder’s Mind
+
+
+✦ Quartermaster
+
+
+✦ Compartmentalizer
+
+
+Flaws:
+
+☠️ Workaholic
+
+
+☠️ Chronic Comparer
+
+
+☠️ Overprepared
+
+
+Narrative Hook:
+ Can fix anything—except what matters most.
+ GM Note: Excellent base support. Stir conflict by putting their logic against group emotion.
+
+10. THE LEADER
+
+Traits:
+
+✦ Tactical Voice
+
+
+✦ Inspiring
+
+
+✦ Loyal Teammate
+
+
+✦ Bridge-Builder
+
+
+✦ Scene Stealer (if dramatic)
+
+
+Flaws:
+
+☠️ Needs to Win
+
+
+☠️ Power Hungry (latent)
+
+
+☠️ Burnout Risk (via Overmedicates or Validation-Dependent)
+
+
+Narrative Hook:
+ They didn’t want this job. But they never walk away.
+ GM Note: Give them a follower to lose, or a hard choice with no moral win.
+
+11. THE HUNTER
+
+Traits:
+
+✦ Tracker’s Gait
+
+
+✦ Night-Eyed
+
+
+✦ Animal Kin
+
+
+✦ Flanker
+
+
+✦ Pain-Tolerant
+
+
+Flaws:
+
+☠️ Detached
+
+
+☠️ Overprepared
+
+
+☠️ Claustrophobic
+
+
+Narrative Hook:
+ Understands prey—because they’ve been hunted too.
+ GM Note: Create wilderness arcs or blood trail missions. Excellent for stalking infected or NPC prey.
+
+12. THE CYNIC
+
+Traits:
+
+✦ Pattern Seeker
+
+
+✦ Cold Strategist
+
+
+✦ Survivor’s Grit
+
+
+✦ Disarming Honesty
+
+
+Flaws:
+
+☠️ Contrarian
+
+
+☠️ Validation-Dependent (quietly)
+
+
+☠️ Bottles Everything
+
+
+Narrative Hook:
+ Doesn’t believe in people—but keeps showing up anyway.
+ GM Note: Test their loyalty or force them into situations where hope costs something.
+
+13. THE MARTYR
+
+Traits:
+
+✦ Self-Sacrificing
+
+
+✦ Guardian
+
+
+✦ Forgiving
+
+
+✦ Oathkeeper
+
+
+Flaws:
+
+☠️ Savior Syndrome
+
+
+☠️ Overextends
+
+
+☠️ Guilt Magnet
+
+
+Narrative Hook:
+ Doesn’t expect to survive—but might live just long enough to change something.
+ GM Note: Watch for burnouts or moral crises. Use dependent NPCs or betrayals to escalate.
+
+14. THE TACTICIAN
+
+Traits:
+
+✦ Planner
+
+
+✦ Risk Translator
+
+
+✦ Quartermaster
+
+
+✦ Area Denial Specialist
+
+
+✦ Point Controller
+
+
+Flaws:
+
+☠️ Analysis Paralysis
+
+
+☠️ One-Track Mind
+
+
+☠️ Power Hungry (optional latent)
+
+
+Narrative Hook:
+ They’ve played this out in their head 100 times—and still don’t like the outcome.
+ GM Note: Pair with chaotic characters for friction. Great for prep vs improvisation arcs.
+
+15. THE SURVIVOR CHILD (playable teen NPC or PC)
+
+Traits:
+
+✦ Adaptive Thinker
+
+
+✦ Curiosity
+
+
+✦ Scene Stealer (if spotlighted)
+
+
+✦ Unfinished Business
+
+
+Flaws:
+
+☠️ Fear of Failure
+
+
+☠️ Haunted
+
+
+☠️ Validation Addict
+
+
+Narrative Hook:
+ They were supposed to die. But they didn’t.
+ GM Note: Excellent for coming-of-age stories, mentor bonds, or rapid trauma growth arcs.
+
+16. THE ADDICT
+
+Traits:
+
+✦ Compartmentalizer
+
+
+✦ Will of Iron (used to enduring withdrawal)
+
+
+✦ Masked Performer
+
+
+✦ Soul Anchor (to what they lost)
+
+
+Flaws:
+
+☠️ Pain Pill Dependent
+
+
+☠️ Self-Harmer
+
+
+☠️ Overmedicates
+
+
+Narrative Hook:
+ Can’t keep the poison out—but hasn’t stopped fighting.
+ GM Note: Explore cycles of relapse, redemption, or manipulation. Pair with medics or former users.
+
+17. THE PROPHET
+
+Traits:
+
+✦ Dream-Linked
+
+
+✦ Spirit Bond
+
+
+✦ Tragedy Foreshadowed
+
+
+✦ Meta-Conduit
+
+
+✦ Theme-Bound
+
+
+Flaws:
+
+☠️ Delusional (custom)
+
+
+☠️ Fears Being Forgotten
+
+
+☠️ Memory Triggers
+
+
+Narrative Hook:
+ Knows what’s coming—but nobody listens.
+ GM Note: Give real or false insight. Works for cosmic horror, cultic plots, or strange salvation arcs.
+
+18. THE COWARD
+
+Traits:
+
+✦ Pattern Seeker
+
+
+✦ Watchdog
+
+
+✦ Scavenger
+
+
+✦ Voice of Reason
+
+
+Flaws:
+
+☠️ Fear of Intimacy
+
+
+☠️ Abandonment Wound
+
+
+☠️ Luckless
+
+
+Narrative Hook:
+ Wants to be brave—but wants to live more.
+ GM Note: Redemption arcs, moral challenges, or paired duos can bring big payoff.
+
+19. THE WEAPON
+
+Traits:
+
+✦ Close Combat Specialist
+
+
+✦ Pain-Tolerant
+
+
+✦ Ambidextrous
+
+
+✦ Juggernaut
+
+
+✦ Weapon Obsessed
+
+
+Flaws:
+
+☠️ Ruthless
+
+
+☠️ Secret Sadist
+
+
+☠️ Flashbacks
+
+
+Narrative Hook:
+ Built for violence. Trying not to break everything they touch.
+ GM Note: Push them into gray morality fights. Let them protect a “soft” NPC for contrast.
+
+20. THE LIGHT
+
+Traits:
+
+✦ Inspiring
+
+
+✦ Second-Chancer
+
+
+✦ Peacekeeper
+
+
+✦ Scene Stealer
+
+
+✦ Voice for the Dead
+
+
+Flaws:
+
+☠️ Savior Syndrome
+
+
+☠️ Tragedy Foreshadowed
+
+
+☠️ Haunted
+
+
+Narrative Hook:
+ They keep the camp alive. But they’re running out of light.
+ GM Note: Anchor of hope. Challenge with impossible choices or betrayals.
+
+21. THE REDEEMER
+
+Traits:
+
+✦ Redeemer
+
+
+✦ Confessor
+
+
+✦ Survivor’s Grit
+
+
+✦ Guardian
+
+
+Flaws:
+
+☠️ Guilt Magnet
+
+
+☠️ Haunted
+
+
+☠️ Bottles Everything
+
+
+Narrative Hook:
+ Worse than a killer. Worse than a coward. Now trying to be more.
+ GM Note: Pair with a secret, survivor guilt, or a group that doesn’t trust them.
+
+22. THE SHADOW
+
+Traits:
+
+✦ Masked Performer
+
+
+✦ Detached
+
+
+✦ Pattern Seeker
+
+
+✦ Silent Mover
+
+
+Flaws:
+
+☠️ Secret Collaborator
+
+
+☠️ Alienates Allies (custom flaw)
+
+
+☠️ Paranoid (or Distrustful)
+
+
+Narrative Hook:
+ You’ll never know who they were—until it’s too late.
+ GM Note: Best with secrecy mechanics or betrayal arcs. Useful mole/spy option.
+
+23. THE TRUTHSEEKER
+
+Traits:
+
+✦ Curious
+
+
+✦ Internal Compass
+
+
+✦ Fourth Wall Flicker
+
+
+✦ Unfinished Business
+
+
+Flaws:
+
+☠️ Overextends
+
+
+☠️ Needs to Win
+
+
+☠️ Flashbacks
+
+
+Narrative Hook:
+ They’ll burn the whole world to uncover what happened.
+ GM Note: Design lore-triggered moments, conspiracy arcs, or old-world corruption flashbacks.
+
+24. THE LONER
+
+Traits:
+
+✦ Detached
+
+
+✦ Compartmentalizer
+
+
+✦ Makeshift Engineer
+
+
+✦ Silent Mover
+
+
+Flaws:
+
+☠️ Fear of Intimacy
+
+
+☠️ Workaholic
+
+
+☠️ Head Injury Survivor (optional twist)
+
+
+Narrative Hook:
+ They work best alone—but something keeps pulling them back.
+ GM Note: Strong for trust-building scenes or “found family” arcs.
+
+25. THE LEGEND IN THE MAKING
+
+Traits:
+
+✦ Spotlight Magnet
+
+
+✦ First In
+
+
+✦ Will of Iron
+
+
+✦ Archetype-Breaker
+
+
+✦ Inspiring
+
+
+Flaws:
+
+☠️ Glory Chaser
+
+
+☠️ Bad Liar
+
+
+☠️ Burnout Risk (via Overmedicates or Overextends)
+
+
+Narrative Hook:
+ Born to lead. But what happens when the story turns on them?
+ GM Note: Perfect for player who wants to grow into fame—or fall from it.
+
+26. THE DRIFTER
+
+Traits:
+
+✦ Scavenger
+
+
+✦ Improviser
+
+
+✦ Survivalist
+
+
+✦ Unreadable
+
+
+Flaws:
+
+☠️ Claustrophobic
+
+
+☠️ Self-Harmer (or Substance Dependent)
+
+
+☠️ Fears Being Forgotten
+
+
+Narrative Hook:
+ They don’t stay long anywhere—but maybe here’s different.
+ GM Note: Best for temporary PCs, NPC converts, or amnesia subplots.
+
+27. THE STRATEGIST
+
+Traits:
+
+✦ Cold Strategist
+
+
+✦ Risk Translator
+
+
+✦ Adaptive Thinker
+
+
+✦ Overprepared
+
+
+Flaws:
+
+☠️ Analysis Paralysis
+
+
+☠️ Detached
+
+
+☠️ Validation-Dependent
+
+
+Narrative Hook:
+ They know exactly how to survive—but can they live with what it costs?
+ GM Note: Offer moral trade-offs and crises where logic fails.
+
+28. THE PACIFIST
+
+Traits:
+
+✦ Second-Chancer
+
+
+✦ Peacekeeper
+
+
+✦ Disarming Honesty
+
+
+✦ Empathic Speaker
+
+
+Flaws:
+
+☠️ Enemy Empathizer
+
+
+☠️ Bottles Everything
+
+
+☠️ Haunted
+
+
+Narrative Hook:
+ Won’t kill—even when the dead are at the door.
+ GM Note: Force hard choices: mercy or massacre. Build scenes around belief vs survival.
+
+29. THE FERAL ONE
+
+Traits:
+
+✦ Night-Eyed
+
+
+✦ Animal Kin
+
+
+✦ Tracker’s Gait
+
+
+✦ Dream-Linked
+
+
+Flaws:
+
+☠️ Flashbacks
+
+
+☠️ Memory Triggers
+
+
+☠️ Delusional (custom)
+
+
+Narrative Hook:
+ Speaks in riddles. Lives off instinct. Somehow still here.
+ GM Note: Great for mystical threads, wild environment arcs, or uncanny dream logic.
+
+30. THE COMPASS
+
+Traits:
+
+✦ Moral Anchor
+
+
+✦ Oathkeeper
+
+
+✦ Confessor
+
+
+✦ Voice of Reason
+
+
+Flaws:
+
+☠️ Can’t Compromise (custom)
+
+
+☠️ Guilt Magnet
+
+
+☠️ Tragedy Foreshadowed
+
+
+Narrative Hook:
+ They keep the group from turning into monsters—but at what cost?
+ GM Note: Ideal conscience role. Push them with betrayals, desperate ethics, or innocent blood.
+
+31. THE BUILDER
+
+Traits:
+
+✦ Builder’s Mind
+
+
+✦ Quartermaster
+
+
+✦ Cook (morale support)
+
+
+✦ Civilizer
+
+
+✦ Sure-Footed
+
+
+Flaws:
+
+☠️ Workaholic
+
+
+☠️ Bottles Everything
+
+
+☠️ Analysis Paralysis
+
+
+Narrative Hook:
+ Won’t stop until something permanent stands again.
+ GM Note: Test with supply scarcity, moral cost of expansion, or losing their creation.
+
+32. THE TWIN (use for bonded duos)
+
+Traits:
+
+✦ Soul Anchor (each other)
+
+
+✦ Loyal Teammate
+
+
+✦ Protective Presence
+
+
+✦ Bridge-Builder
+
+
+Flaws:
+
+☠️ Abandonment Wound
+
+
+☠️ Savior Syndrome
+
+
+☠️ Haunted (if they lost the other)
+
+
+Narrative Hook:
+ What happens when one breaks—and the other doesn’t?
+ GM Note: Best used as PCs or NPCs who split, forcing diverging arcs.
+
+33. THE FALLEN LEADER
+
+Traits:
+
+✦ Tactical Voice
+
+
+✦ Charismatic
+
+
+✦ Scene Stealer
+
+
+✦ Confessor
+
+
+Flaws:
+
+☠️ Guilt Magnet
+
+
+☠️ Power Hungry
+
+
+☠️ Luckless
+
+
+Narrative Hook:
+ They had power. They failed. Can they rise again?
+ GM Note: Use when players need a second-chance redemption arc or faction fracture.
+
+34. THE TRACKER
+
+Traits:
+
+✦ Tracker’s Gait
+
+
+✦ Watchdog
+
+
+✦ Pattern Seeker
+
+
+✦ Animal Kin
+
+
+✦ Sure-Footed
+
+
+Flaws:
+
+☠️ Flashbacks
+
+
+☠️ Chronic Comparer
+
+
+☠️ Detached
+
+
+Narrative Hook:
+ They know where everything’s been—but not where they’re going.
+ GM Note: Use for terrain-hunt arcs or slow unraveling of internal conflict.
+
+35. THE CULTIST
+
+Traits:
+
+✦ Spirit Bond
+
+
+✦ Fate-Touched
+
+
+✦ Tragedy Foreshadowed
+
+
+✦ Meta-Conduit
+
+
+Flaws:
+
+☠️ Ideologue
+
+
+☠️ Delusional (custom)
+
+
+☠️ Flashbacks (possibly implanted)
+
+
+Narrative Hook:
+ They serve a truth only they understand.
+ GM Note: Perfect for horror, cosmic, or mind-break threads. Could be right—or very wrong.
+
+36. THE ANCHOR
+
+Traits:
+
+✦ Protective Presence
+
+
+✦ Inspiring
+
+
+✦ Voice of Reason
+
+
+✦ Forgiving
+
+
+✦ Mindful
+
+
+Flaws:
+
+☠️ Bottles Everything
+
+
+☠️ Validation-Dependent
+
+
+☠️ Haunted
+
+
+Narrative Hook:
+ Everyone leans on them. No one asks how they’re doing.
+ GM Note: Quietly vital. Put them in the center of a camp mental health arc or breakdown.
+
+37. THE BURNOUT
+
+Traits:
+
+✦ Scene Stealer
+
+
+✦ Survivor’s Grit
+
+
+✦ Compartmentalizer
+
+
+✦ Makeshift Engineer
+
+
+Flaws:
+
+☠️ Overmedicates
+
+
+☠️ Self-Harmer
+
+
+☠️ Abandonment Wound
+
+
+Narrative Hook:
+ Still breathing. Doesn’t know why.
+ GM Note: Great in high-risk teams. Watch them either spiral or turn into unexpected heroes.
+
+38. THE EXILE
+
+Traits:
+
+✦ Detached
+
+
+✦ Lone Survivor (custom trait)
+
+
+✦ Adaptive Thinker
+
+
+✦ Quartermaster
+
+
+Flaws:
+
+☠️ Criminal Record
+
+
+☠️ Distrustful
+
+
+☠️ Alienates Allies
+
+
+Narrative Hook:
+ Banished once. Watching this new group for cracks.
+ GM Note: Rich for outsider tension, hidden redemption, or sabotage arcs.
+
+39. THE DISSIDENT
+
+Traits:
+
+✦ Contrarian
+
+
+✦ Diplomat
+
+
+✦ Archetype-Breaker
+
+
+✦ Risk Translator
+
+
+Flaws:
+
+☠️ Can’t Take Orders
+
+
+☠️ Needs to Win
+
+
+☠️ Impulse Control
+
+
+Narrative Hook:
+ Their ideas might save the group—or tear it apart.
+ GM Note: Test by making them right but disliked—or wrong but persuasive.
+
+40. THE RELIC (Elder survivor archetype)
+
+Traits:
+
+✦ Voice for the Dead
+
+
+✦ Death-Courted
+
+
+✦ Sage (custom trait)
+
+
+✦ Pain-Tolerant
+
+
+✦ Unshakable
+
+
+Flaws:
+
+☠️ Haunted
+
+
+☠️ Memory Triggers
+
+
+☠️ Physically Frail (custom flaw)
+
+
+Narrative Hook:
+ They remember when the world ended. And what it cost.
+ GM Note: Great as party wisdom keeper, tragic sacrifice, or haunting moral anchor.
+
+41. THE LIAR
+
+Traits:
+
+✦ Masked Performer
+
+
+✦ Meta-Conduit (reads the room too well)
+
+
+✦ Scene Stealer
+
+
+✦ Detached
+
+
+Flaws:
+
+☠️ Bad Liar (ironic)
+
+
+☠️ Secret Collaborator
+
+
+☠️ Contrarian
+
+
+Narrative Hook:
+ Every word is a mask. But maybe the truth would break them.
+ GM Note: Best when secrets matter. Give them false rumors or a double agent past.
+
+42. THE ARCHIVIST
+
+Traits:
+
+✦ Pattern Seeker
+
+
+✦ Builder’s Mind
+
+
+✦ Voice for the Dead
+
+
+✦ Curious
+
+
+Flaws:
+
+☠️ Obsessive
+
+
+☠️ Memory Triggers
+
+
+☠️ Guilt Magnet
+
+
+Narrative Hook:
+ They remember everything. Even what should be forgotten.
+ GM Note: Ideal for lore-heavy campaigns, journal-based mechanics, or “info as salvation” arcs.
+
+43. THE TURNCOAT
+
+Traits:
+
+✦ Redeemer
+
+
+✦ Watchdog
+
+
+✦ Risk Translator
+
+
+✦ Unreadable
+
+
+Flaws:
+
+☠️ Secret Collaborator
+
+
+☠️ Power Hungry
+
+
+☠️ Alienates Allies
+
+
+Narrative Hook:
+ Was on the wrong side. Still might be.
+ GM Note: Let them prove loyalty or spiral into sabotage. Keeps tension sharp if PC or NPC.
+
+44. THE BEAST
+
+Traits:
+
+✦ Pain-Tolerant
+
+
+✦ Juggernaut
+
+
+✦ Animal Kin
+
+
+✦ Spirit Bond (feral ancestry)
+
+
+Flaws:
+
+☠️ Ruthless
+
+
+☠️ Secret Sadist
+
+
+☠️ Flashbacks
+
+
+Narrative Hook:
+ More animal than man. Still fights for something.
+ GM Note: Great in primal zones, body horror arcs, or lost civilization reveals.
+
+45. THE DREAMER
+
+Traits:
+
+✦ Dream-Linked
+
+
+✦ Fate-Touched
+
+
+✦ Theme-Bound
+
+
+✦ Optimist
+
+
+Flaws:
+
+☠️ Delusional (mild or prophetic)
+
+
+☠️ Validation Addict
+
+
+☠️ Tragedy Foreshadowed
+
+
+Narrative Hook:
+ They see beauty in the ruins—and maybe something else watching.
+ GM Note: Useful for intuition-based quests, foreshadowing, or supernatural whispers.
+
+46. THE CLEAN SLATE
+
+Traits:
+
+✦ Adaptive Thinker
+
+
+✦ Scene Stealer
+
+
+✦ Curious
+
+
+✦ Soul Anchor (to the first person who helped them)
+
+
+Flaws:
+
+☠️ Amnesiac (custom flaw)
+
+
+☠️ Guilt Magnet (false memories)
+
+
+☠️ Luckless
+
+
+Narrative Hook:
+ Doesn’t know who they were. Terrified of who they might be.
+ GM Note: Perfect for reveal-based arcs. GM can tailor their origin.
+
+47. THE JESTER
+
+Traits:
+
+✦ Icebreaker
+
+
+✦ Meta-Conduit
+
+
+✦ Fourth Wall Flicker
+
+
+✦ Improviser
+
+
+Flaws:
+
+☠️ Emotional Volatility
+
+
+☠️ Fears Being Forgotten
+
+
+☠️ Burnout Risk (custom: laughter as armor)
+
+
+Narrative Hook:
+ They keep people laughing so no one hears the screams.
+ GM Note: Perfect for comic relief with pathos. May break or elevate when it counts.
+
+48. THE SILENT ONE
+
+Traits:
+
+✦ Silent Mover
+
+
+✦ Detached
+
+
+✦ Mindful
+
+
+✦ Tracker’s Gait
+
+
+Flaws:
+
+☠️ Bottles Everything
+
+
+☠️ Communication Block (mute, vow, trauma)
+
+
+☠️ Abandonment Wound
+
+
+Narrative Hook:
+ Doesn’t speak—but everything they do says something.
+ GM Note: Ideal for strong non-verbal RP, journal mechanics, or empathy bonding.
+
+49. THE ICON
+
+Traits:
+
+✦ Inspiring
+
+
+✦ Archetype-Breaker
+
+
+✦ Narrative Armor
+
+
+✦ Beacon (custom: radiates belief)
+
+
+Flaws:
+
+☠️ Glory Chaser
+
+
+☠️ Savior Syndrome
+
+
+☠️ Burnout Risk
+
+
+Narrative Hook:
+ They represent something larger—and it’s killing them.
+ GM Note: Ideal public face, faction rally point, or martyr. Use for hope vs self arc.
+
+50. THE FORSAKEN
+
+Traits:
+
+✦ Survivor’s Grit
+
+
+✦ Compartmentalizer
+
+
+✦ Makeshift Engineer
+
+
+✦ Voice for the Dead
+
+
+Flaws:
+
+☠️ Criminal Record
+
+
+☠️ Illiterate
+
+
+☠️ Hunted
+
+
+Narrative Hook:
+ They were thrown away. And they didn’t stay gone.
+ GM Note: Strong loner narrative. Feed in guilt, old enemies, or desperate rebirth threads.
+
+51. THE WATCHER
+
+Traits:
+
+✦ Unreadable
+
+
+✦ Risk Translator
+
+
+✦ Pattern Seeker
+
+
+✦ Cold Logic
+
+
+Flaws:
+
+☠️ Bottles Everything
+
+
+☠️ Paranoid (or custom: sees connections no one else does)
+
+
+☠️ Alienates Allies
+
+
+Narrative Hook:
+ They see what others miss—but they’ve stopped explaining.
+ GM Note: Incredible for forewarning plots, counter-infiltration, or silent judgment arcs.
+
+52. THE PILGRIM
+
+Traits:
+
+✦ Spirit Bond
+
+
+✦ Oathkeeper
+
+
+✦ Confessor
+
+
+✦ Guardian (of a belief, person, or relic)
+
+
+Flaws:
+
+☠️ Ideologue
+
+
+☠️ Abandonment Wound
+
+
+☠️ Haunted
+
+
+Narrative Hook:
+ They walk a road older than the outbreak—and they’re not done yet.
+ GM Note: Best for spiritual, mythic, or faith-based journeys. Design sites tied to their vow.
+
+53. THE BROKEN HERO
+
+Traits:
+
+✦ Tactical Voice
+
+
+✦ Survivor’s Grit
+
+
+✦ Fate-Touched
+
+
+✦ Unfinished Business
+
+
+Flaws:
+
+☠️ Tragedy Foreshadowed
+
+
+☠️ Burn Scars
+
+
+☠️ Guilt Magnet
+
+
+Narrative Hook:
+ They saved everyone—except themselves.
+ GM Note: Great for fallen legends, ex-commanders, or icons trying to fade quietly.
+
+54. THE INHERITOR
+
+Traits:
+
+✦ Unknown Bloodline
+
+
+✦ Narrative Armor
+
+
+✦ Dream-Linked
+
+
+✦ Theme-Bound
+
+
+Flaws:
+
+☠️ Delusional (or just ahead of the rest)
+
+
+☠️ Fears Being Forgotten
+
+
+☠️ Memory Triggers
+
+
+Narrative Hook:
+ The blood in their veins is tied to something… ancient.
+ GM Note: Run with prophecy arcs, inherited burden quests, or strange immunity.
+
+55. THE LAST PARENT
+
+Traits:
+
+✦ Soul Anchor (for a child)
+
+
+✦ Self-Sacrificing
+
+
+✦ Cook (nurturing role)
+
+
+✦ Builder’s Mind (creates shelter)
+
+
+Flaws:
+
+☠️ Haunted
+
+
+☠️ Overextends
+
+
+☠️ Adrenaline Junkie (to protect family)
+
+
+Narrative Hook:
+ They can’t afford to break—because someone needs them.
+ GM Note: Use in guardian arcs, child-PC games, or moral-laden survival missions.
+
+56. THE SEEDBEARER
+
+Traits:
+
+✦ Botanist
+
+
+✦ Water Finder
+
+
+✦ Hopeful (custom trait: refuses to give up on regrowth)
+
+
+✦ Peacemaker
+
+
+Flaws:
+
+☠️ Guilt Magnet (if crops fail or others starve)
+
+
+☠️ Chronic Comparer
+
+
+☠️ Bottles Everything
+
+
+Narrative Hook:
+ They carry the last hope of green.
+ GM Note: Works beautifully in eco-horror, farming colony campaigns, or regen mechanics.
+
+57. THE SMILING LIAR
+
+Traits:
+
+✦ Icebreaker
+
+
+✦ Masked Performer
+
+
+✦ Improviser
+
+
+✦ Archetype-Breaker
+
+
+Flaws:
+
+☠️ Bad Liar (when it matters most)
+
+
+☠️ Power Hungry
+
+
+☠️ Secret Collaborator
+
+
+Narrative Hook:
+ Everyone loves them. They hope that buys them time.
+ GM Note: Best for high-charisma manipulators or dual-role agents.
+
+58. THE ASHEN
+
+Traits:
+
+✦ Pain-Tolerant
+
+
+✦ Detached
+
+
+✦ Voice for the Dead
+
+
+✦ Death-Courted
+
+
+Flaws:
+
+☠️ Haunted
+
+
+☠️ Claustrophobic (tied to burial/smoke trauma)
+
+
+☠️ Flashbacks
+
+
+Narrative Hook:
+ Their world burned. They never left the smoke.
+ GM Note: Amazing for fire-scarred worlds, symbolic death arcs, or vengeance spirals.
+
+59. THE UNBREAKABLE
+
+Traits:
+
+✦ Will of Iron
+
+
+✦ Unshakable
+
+
+✦ Survivor’s Aura
+
+
+✦ Compartmentalizer
+
+
+✦ Voice of Reason
+
+
+Flaws:
+
+☠️ Bottles Everything
+
+
+☠️ Burnout Risk
+
+
+☠️ Memory Triggers
+
+
+Narrative Hook:
+ Everyone else cracks. They only fracture.
+ GM Note: Perfect for frontline officers, grizzled medics, or spiritual anchors in decay.
+
+60. THE MIRROR
+
+Traits:
+
+✦ Theme-Bound
+
+
+✦ Empath
+
+
+✦ Scene Stealer
+
+
+✦ Confessor
+
+
+Flaws:
+
+☠️ Emotional Volatility
+
+
+☠️ Guilt Magnet
+
+
+☠️ Haunted
+
+
+Narrative Hook:
+ They reflect who you are—sometimes too well.
+ GM Note: Use to test other players. Their death, betrayal, or survival will say something about the group.
+
+Trait | Flaw Counterpart
+
+Empathic | Guilt Magnet
+
+Cold Strategist | Lacks Empathy
+
+Protective | Self-Destructive
+
+Charismatic | Manipulative
+
+Loyal | Co-Dependent

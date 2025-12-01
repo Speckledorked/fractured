@@ -1,0 +1,129 @@
+🎲 MASTER INDEX – GAME SYSTEMS & FEATURES
+
+Game Title: Fractured
+
+Player Count: 1–4 (Solo/GM-Free/Co-op compatible)
+
+Structure: 4-Session Campaign ("Four Seasons")
+
+Tone: Hard moral choices, emotional realism, narrative tension, resource collapse
+
+I. 🧱 CORE STRUCTURE
+
+II. ⚙️ CHARACTER CREATION
+
+III. 🎯 GAMEPLAY SYSTEMS
+
+IV. 📦 RESOURCE & INVENTORY
+
+V. 🧭 MAP, MOVEMENT, & WORLD STATE
+
+VI. 🔥 NARRATIVE SYSTEMS
+
+VII. 🧠 PSYCHOLOGY & BEHAVIOR
+
+VIII. 🧪 SYSTEMS IN DEVELOPMENT / PLANNING
+
+System | Status | Notes
+
+Four Seasons Story Spine | ✅ Finalized | Each session = world-changing collapse + Red Line
+
+Session = 1 Season | ✅ Core Framework | Sessions framed as narrative arcs, not time units
+
+GM-Free Play Support | 🛠 In Progress | Uses modular prompts, conflict decks, and story spines
+
+Solo/Co-op Viability | ✅ Built-in | Scene triggers, Red Line moments, and trait scaffolds make it viable
+
+Session Zero Tools | 🔜 Planned | Will include trust mapping, Red Line declarations, belief conflicts
+
+System | Status | Notes
+
+100-Question Character Creation Quiz | ✅ Finalized | Answers shape stats, traits, flaws, crisis arcs
+
+GM Companion Guide Vol 1 – Stats & Traits | ✅ Finalized | Interprets quiz into stats (0–5), 3 traits, 1–2 flaws
+
+GM Companion Guide Vol 2 – Trait & Flaw Library | ✅ Finalized | 150+ detailed traits/flaws with triggers, paths, risks
+
+Crisis Tags & Evolution Paths | ✅ Integrated | Traits and flaws evolve under pressure (spiral vs resilience)
+
+Crisis Profile Builder | ✅ Built | Personality under stress; tied to player psychology
+
+Behavior Engines (Vol 3) | ✅ Built | Escalation tools: instability, party influence, stress web
+
+Red Line Declaration Sheet | ✅ Built | Each player has a personal, moral line—used in climaxes
+
+System | Status | Notes
+
+Action Cycle (Narrative-Based) | ✅ Finalized | No initiative; acts trigger risk or escalation
+
+Risk Resolution System (2d6 + stat) | ✅ Finalized | Success, mixed success, or failure w/ narrative cost
+
+Tension-Based Minimalism (d6 triggers) | ✅ Finalized | Optional alternative system; faster and drama-rich
+
+Growth Mark System (Leveling) | ✅ Finalized | 3 growth marks = 1 stat up, trait evolve, flaw breakthrough
+
+Conflict Profiles (Vol 1 Section 6) | ✅ Built | Behavior fingerprint: instinct, anchor, moral threshold, fear, persona
+
+Flaw Mutation & Trait Evolution | ✅ Built | Traits/flaws shift under pressure—GM-free compatible
+
+System | Status | Notes
+
+Abstract Resource Categories | ✅ Finalized | Food, Ammo, Medical, Fuel, Construction, Morale, etc.
+
+Condition-Based Resource Drain | ✅ Finalized | Time doesn't auto-drain; unmet needs trigger loss
+
+Scavenge Missions = Resource Returns | ✅ Built | Players choose to risk loss for +resources (narrative)
+
+Traits/roles that modify resource use | ✅ Built | E.g., Quartermaster, Efficient Forager, Builder’s Mind
+
+Construction Category (Fortification) | ✅ Added | Used for upgrading shelters, traps, gates, etc.
+
+System | Status | Notes
+
+Tile-Based World Map | ✅ Preferred | Realistic geography; no fast travel
+
+Dynamic Zone Safety (Flip Markers) | ✅ Built | Tiles become unsafe over time (from Season 2 onward)
+
+Narrative-Driven Movement | ✅ Finalized | Players move where story demands—not action-gated
+
+No Numerical Movement Cost | ✅ Confirmed | Focus stays on spatial/emotional logic
+
+System | Status | Notes
+
+Vol 4 – Narrative Hooks, Arc Generators, Red Line Builders | ✅ Finalized | Scene tools for moral tension, party fracture, and arc shaping
+
+Red Line Moments (Vol 4 Part 3) | ✅ Built | Rare, personal breaking points that permanently change characters
+
+25+ Arc Scaffolds | ✅ Built | Betrayals, collapse arcs, echoes, personal myth, identity shifts
+
+Scene Hook Library | ✅ Built | Solo, party, or external threat tension seeds
+
+Red Line Prompt Library | ✅ Built | 10+ unique moral crisis triggers across tags
+
+Conflict Prompt Tags | ✅ Built | e.g., [🧍 Identity], [💔 Loyalty], [⚖️ Morality]
+
+System | Status | Notes
+
+Crisis Profiles (Vol 3) | ✅ Built | 15 stress-archetypes (e.g., The Ghost, The Martyr, The Anchor)
+
+Behavior Engines | ✅ Built | Emotion loops, party destabilization, sanity shifts
+
+Crisis Tag Layer (Vol 2 Supplement) | ✅ Built | Traits and flaws now carry spiral/resilience tags
+
+Crisis Persona Labels (GM-Only) | ✅ Built | Secret identity titles to guide character arcs
+
+Flaw Mutation Mechanics | ✅ Built | Prolonged stress causes flaw decay unless resolved
+
+System | Status | Notes
+
+Scene Decks (Per Season) | 🔜 Planned | Card/table format for GM-free scene injections
+
+Mission Generator (Risk vs Reward) | 🔜 Planned | Procedural system to generate tactical, moral, or survival missions
+
+Solo Playbook / Rulebook Variant | 🔜 Planned | Compact GM-free companion for solo runs
+
+Session Zero Kit | 🔜 Planned | Red Line sheet, Belief Conflict, Trust Web, etc.
+
+Downtime Mechanics | 🧠 Discussed | Simple tension/recovery scenes between active runs
+
+Reputation & Morale System | 🧠 Discussed | Optional party cohesion meter—affects scenes and trust checks
