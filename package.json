@@ -1,0 +1,23 @@
+{
+  "name": "fractured-game-system",
+  "version": "1.0.0",
+  "description": "Fractured tabletop RPG mechanics library",
+  "main": "src/lib/mechanics/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node src/lib/mechanics/example.ts"
+  },
+  "keywords": [
+    "rpg",
+    "tabletop",
+    "game-system",
+    "mechanics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
