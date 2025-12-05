@@ -5,9 +5,9 @@ Unified mechanics module for the Fractured game system. Provides typed access to
 ## Overview
 
 This module reads and parses markdown files from:
-- `traits/` - Character traits with trigger conditions and evolution paths
-- `flaws/` - Character flaws with mechanical effects
-- `crisis_profiles/` - Behavioral archetypes under stress
+- `traits/` - 100 character traits with trigger conditions and evolution paths
+- `flaws/` - 51 character flaws with mechanical effects
+- `crisis_profiles/` - 14 behavioral archetypes under stress
 
 ## Usage
 
