@@ -29,7 +29,7 @@ Each flaw includes:
 ### Fear of Failure
 **Type**: Emotional
 **Description**: Avoids action when success isn't guaranteed. Haunted by letting people down.
-**Effect**: Must pass Resolve check to take major risks or leadership roles.
+**Effect**: Must pass a Sanity check to take major risks or leadership roles.
 **Triggers**: When stakes feel high or others are watching.
 **Evolution**:
 - Spiral: "Chronic Avoider" (won't act at all)
@@ -177,7 +177,7 @@ Each flaw includes:
 ### Obsessive
 **Type**: Behavioral
 **Description**: Can't let go of tasks until "perfect"—or ruined.
-**Effect**: Cannot exit mission task early without Willpower check.
+**Effect**: Cannot exit mission task early without a Sanity check.
 **Triggers**: Broken plans, shifting priorities.
 **Evolution**:
 - Spiral: "Cracked Perfectionist" (standards destroy them)
@@ -244,7 +244,7 @@ Each flaw includes:
 ### Pain Pill Dependent
 **Type**: Chemical
 **Description**: Built tolerance—or addiction—to numbing agents.
-**Effect**: -1 to Endurance and Willpower if unable to access meds every 48 hrs.
+**Effect**: -1 to Stamina and Sanity if unable to access meds every 48 hrs.
 **Triggers**: Injury, field missions, destroyed med storage.
 **Evolution**:
 - Spiral: "Fiend" (will do anything for next dose)
@@ -360,7 +360,7 @@ Each flaw includes:
 ### Claustrophobic
 **Type**: Phobia
 **Description**: Tight spaces trigger full-blown panic.
-**Effect**: Must roll Resolve to enter vents, basements, or crawlspaces.
+**Effect**: Must roll Sanity to enter vents, basements, or crawlspaces.
 **Triggers**: Collapsed buildings, bunkers.
 **Evolution**:
 - Spiral: "Sealed Fate" (panic kills them)

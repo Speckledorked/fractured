@@ -136,7 +136,7 @@ Each trait includes:
 ### Survivor's Grit
 **Type**: Passive
 **Description**: Has already been through hell. Came out stronger.
-**Effect**: +1 on all Willpower/Endurance rolls when solo.
+**Effect**: +1 on all Sanity and Stamina rolls when solo.
 **Triggers**: May default to isolation under stress.
 **Evolution**:
 - Spiral: "Burned Out" (nothing left to give)
